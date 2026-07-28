@@ -1,4 +1,4 @@
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlparse, parse_qs
 
 from bs4 import BeautifulSoup
 from playwright.async_api import async_playwright
@@ -10,7 +10,6 @@ from .base import BaseMonitor
 class EtreMonitor(BaseMonitor):
     site = "ETRÉ TOKYO"
 
-    # 使用全站搜索结果页，而不是原来的 c10 分类页。
     start_url = (
         "https://etretokyo.jp/shop/goods/search.aspx"
         "?yy_min_releasedt=2010"
@@ -66,96 +65,80 @@ class EtreMonitor(BaseMonitor):
         return "unknown"
 
     def get_product_links(self, soup, base_url):
-        """
-        从当前搜索结果页提取商品详情链接。
-        """
-
         links = set()
 
-        selectors = [
-            "a[href*='/shop/g/g']",
-            "a[href*='/shop/goods/']",
-        ]
+        for a in soup.select(
+            "a[href*='/shop/g/g']"
+        ):
+            href = a.get("href", "")
 
-        for selector in selectors:
+            if not href:
+                continue
 
-            for a in soup.select(selector):
+            url = urljoin(
+                base_url,
+                href,
+            )
 
-                href = a.get("href", "")
-
-                if not href:
-                    continue
-
-                url = urljoin(
-                    base_url,
-                    href,
-                )
-
-                # 排除搜索页、分类页等。
-                if (
-                    "/shop/goods/search.aspx"
-                    in url
-                ):
-                    continue
-
-                # 商品详情页通常为 /shop/g/g商品编号/
-                if (
-                    "/shop/g/g"
-                    in url
-                ):
-                    links.add(url)
+            if (
+                "/shop/g/g"
+                in url
+            ):
+                links.add(url)
 
         return links
 
-    def get_next_page(
+    def get_page_links(
         self,
         soup,
-        current_url,
+        base_url,
     ):
         """
-        查找下一页。
+        从页面中寻找全部分页链接。
 
-        优先识别：
-        ・次へ
-        ・次のページ
-        ・Next
-        ・分页的 >、›、»
+        ETRÉ 的分页可能不是“次へ”文字，
+        因此直接寻找搜索页 search.aspx 的链接，
+        再根据 URL 参数判断是否是分页。
         """
 
-        next_words = {
-            "次へ",
-            "次のページ",
-            "next",
-            "next page",
-            ">",
-            "›",
-            "»",
+        page_links = {
+            base_url
         }
 
         for a in soup.select(
             "a[href]"
         ):
+            href = a.get(
+                "href",
+                ""
+            )
 
-            label = a.get_text(
-                " ",
-                strip=True,
-            ).lower()
+            if not href:
+                continue
 
-            if label in next_words:
+            url = urljoin(
+                base_url,
+                href,
+            )
 
-                href = a.get(
-                    "href",
-                    "",
-                )
+            if (
+                "/shop/goods/search.aspx"
+                not in url
+            ):
+                continue
 
-                if href:
+            # 必须保留原搜索条件。
+            if (
+                "yy_min_releasedt=2010"
+                not in url
+            ):
+                continue
 
-                    return urljoin(
-                        current_url,
-                        href,
-                    )
+            page_links.add(
+                url
+            )
 
-        return None
+        return page_links
 
     async def collect(
         self,
@@ -177,45 +160,68 @@ class EtreMonitor(BaseMonitor):
 
             # =================================
             # 第一阶段：
-            # 遍历所有搜索结果分页
+            # 读取第一页并找出全部分页
+            # =================================
+
+            print(
+                "[ETRÉ TOKYO] "
+                "正在读取第一页："
+                f"{self.start_url}"
+            )
+
+            await page.goto(
+                self.start_url,
+                wait_until="networkidle",
+                timeout=90000,
+            )
+
+            first_soup = (
+                BeautifulSoup(
+                    await page.content(),
+                    "html.parser",
+                )
+            )
+
+            page_urls = (
+                self.get_page_links(
+                    first_soup,
+                    self.start_url,
+                )
+            )
+
+            print(
+                "[ETRÉ TOKYO] "
+                "第一页找到 "
+                f"{len(page_urls)} "
+                "个可能的分页链接"
+            )
+
+            # =================================
+            # 第二阶段：
+            # 逐页读取商品
             # =================================
 
             all_links = set()
 
-            current_url = (
-                self.start_url
+            sorted_page_urls = sorted(
+                page_urls
             )
 
-            visited_pages = set()
-
-            page_number = 1
-
-            while current_url:
-
-                # 防止网站分页链接循环。
-                if (
-                    current_url
-                    in visited_pages
-                ):
-                    print(
-                        "[ETRÉ TOKYO] "
-                        "检测到重复分页，"
-                        "停止翻页。"
-                    )
-                    break
-
-                visited_pages.add(
-                    current_url
-                )
-
-                print(
-                    "[ETRÉ TOKYO] "
-                    f"正在读取第 "
-                    f"{page_number} 页："
-                    f"{current_url}"
-                )
+            for page_number, current_url in enumerate(
+                sorted_page_urls,
+                start=1,
+            ):
 
                 try:
+
+                    print(
+                        "[ETRÉ TOKYO] "
+                        f"正在读取第 "
+                        f"{page_number}/"
+                        f"{len(sorted_page_urls)} "
+                        "个分页："
+                        f"{current_url}"
+                    )
 
                     await page.goto(
                         current_url,
@@ -232,7 +238,7 @@ class EtreMonitor(BaseMonitor):
                         )
                     )
 
-                    page_links = (
+                    page_products = (
                         self.get_product_links(
                             soup,
                             current_url,
@@ -244,7 +250,7 @@ class EtreMonitor(BaseMonitor):
                     )
 
                     all_links.update(
-                        page_links
+                        page_products
                     )
 
                     new_count = (
@@ -254,50 +260,31 @@ class EtreMonitor(BaseMonitor):
 
                     print(
                         "[ETRÉ TOKYO] "
-                        f"第 {page_number} 页"
-                        f"发现 "
-                        f"{len(page_links)} "
-                        f"个商品链接，"
+                        f"当前页发现 "
+                        f"{len(page_products)} "
+                        "个商品，"
                         f"新增 "
                         f"{new_count} "
-                        f"个，当前去重总数 "
+                        "个，"
+                        f"当前去重总数 "
                         f"{len(all_links)} "
-                        f"个"
+                        "个"
                     )
-
-                    next_url = (
-                        self.get_next_page(
-                            soup,
-                            current_url,
-                        )
-                    )
-
-                    if not next_url:
-
-                        print(
-                            "[ETRÉ TOKYO] "
-                            "没有找到下一页，"
-                            "搜索结果读取完成。"
-                        )
-
-                        break
-
-                    current_url = (
-                        next_url
-                    )
-
-                    page_number += 1
 
                 except Exception as e:
 
                     print(
                         "[ETRÉ TOKYO] "
-                        f"读取第 "
-                        f"{page_number} "
-                        f"页失败：{e}"
+                        "分页读取失败："
+                        f"{current_url}"
                     )
 
-                    break
+                    print(
+                        "[ETRÉ TOKYO] "
+                        f"错误：{e}"
+                    )
+
+                    continue
 
             print(
                 "[ETRÉ TOKYO] "
@@ -308,8 +295,8 @@ class EtreMonitor(BaseMonitor):
             )
 
             # =================================
-            # 第二阶段：
-            # 逐个打开商品详情页
+            # 第三阶段：
+            # 逐个读取商品详情
             # =================================
 
             total = len(
@@ -415,9 +402,6 @@ class EtreMonitor(BaseMonitor):
 
                     variants = []
 
-                    # 暂时读取常见的规格元素。
-                    # 后续根据实际页面结构，
-                    # 再精确区分颜色和尺码。
                     for el in psoup.select(
                         "select option, "
                         "button, "
@@ -462,8 +446,6 @@ class EtreMonitor(BaseMonitor):
                                 )
                             )
 
-                    # 如果没有识别到规格，
-                    # 暂时保存商品整体库存状态。
                     if not variants:
 
                         variants = [
