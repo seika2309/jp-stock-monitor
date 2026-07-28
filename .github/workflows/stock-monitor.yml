@@ -49,3 +49,10 @@ jobs:
 
           asyncio.run(main())
           PYTHON
+      - name: 保存库存数据库
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add data/monitor.db
+          git commit -m "update stock database" || exit 0
+          git push
