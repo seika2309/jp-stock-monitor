@@ -80,10 +80,7 @@ class EtreMonitor(BaseMonitor):
                 href,
             )
 
-            if (
-                "/shop/g/g"
-                in url
-            ):
+            if "/shop/g/g" in url:
                 links.add(url)
 
         return links
@@ -94,15 +91,18 @@ class EtreMonitor(BaseMonitor):
         base_url,
     ):
         """
-        从页面中寻找全部分页链接。
+        只读取真正的商品分页。
 
-        ETRÉ 的分页可能不是“次へ”文字，
-        因此直接寻找搜索页 search.aspx 的链接，
-        再根据 URL 参数判断是否是分页。
+        ETRÉ 的真正分页 URL 带有：
+        p=2、p=3、p=4……
+
+        sort=c3、sort=sp、sort=spd 是排序链接，
+        不加入分页。
         """
 
+        # 第一页固定加入
         page_links = {
-            base_url
+            self.start_url
         }
 
         for a in soup.select(
@@ -121,24 +121,98 @@ class EtreMonitor(BaseMonitor):
                 href,
             )
 
-            if (
-                "/shop/goods/search.aspx"
-                not in url
-            ):
-                continue
-
-            # 必须保留原搜索条件。
-            if (
-                "yy_min_releasedt=2010"
-                not in url
-            ):
-                continue
-
-            page_links.add(
+            parsed = urlparse(
                 url
             )
 
+            # 必须是商品搜索页面
+            if (
+                "/shop/goods/search.aspx"
+                not in parsed.path
+            ):
+                continue
+
+            query = parse_qs(
+                parsed.query
+            )
+
+            # 必须有真正的页码参数 p
+            if (
+                "p"
+                not in query
+            ):
+                continue
+
+            page_value = (
+                query["p"][0]
+            )
+
+            # 页码必须是数字
+            if not page_value.isdigit():
+                continue
+
+            page_number = int(
+                page_value
+            )
+
+            # 第一页已经固定加入，
+            # 这里只加入第 2 页及以后
+            if page_number < 2:
+                continue
+
+            # 必须保留原搜索条件
+            if (
+                query.get(
+                    "yy_min_releasedt",
+                    [""],
+                )[0]
+                != "2010"
+            ):
+                continue
+
+            # 统一移除 URL 锚点
+            clean_url = (
+                parsed._replace(
+                    fragment=""
+                ).geturl()
+            )
+
+            page_links.add(
+                clean_url
+            )
+
         return page_links
+
+    def get_page_number(
+        self,
+        url,
+    ):
+        """
+        从 URL 中取得页码。
+
+        第一页没有 p 参数，
+        所以默认返回 1。
+        """
+
+        parsed = urlparse(
+            url
+        )
+
+        query = parse_qs(
+            parsed.query
+        )
+
+        value = query.get(
+            "p",
+            ["1"],
+        )[0]
+
+        if value.isdigit():
+            return int(
+                value
+            )
+
+        return 1
 
     async def collect(
         self,
@@ -189,11 +263,18 @@ class EtreMonitor(BaseMonitor):
                 )
             )
 
+            # 按真正页码排序：
+            # 第 1 页、第 2 页、第 3 页……
+            sorted_page_urls = sorted(
+                page_urls,
+                key=self.get_page_number,
+            )
+
             print(
                 "[ETRÉ TOKYO] "
-                "第一页找到 "
-                f"{len(page_urls)} "
-                "个可能的分页链接"
+                "找到 "
+                f"{len(sorted_page_urls)} "
+                "个真正的商品分页"
             )
 
             # =================================
@@ -203,23 +284,27 @@ class EtreMonitor(BaseMonitor):
 
             all_links = set()
 
-            sorted_page_urls = sorted(
-                page_urls
-            )
-
-            for page_number, current_url in enumerate(
+            for page_index, current_url in enumerate(
                 sorted_page_urls,
                 start=1,
             ):
 
                 try:
 
+                    actual_page_number = (
+                        self.get_page_number(
+                            current_url
+                        )
+                    )
+
                     print(
                         "[ETRÉ TOKYO] "
-                        f"正在读取第 "
-                        f"{page_number}/"
+                        "正在读取第 "
+                        f"{page_index}/"
                         f"{len(sorted_page_urls)} "
-                        "个分页："
+                        "页"
+                        f"（实际页码 "
+                        f"{actual_page_number}）："
                         f"{current_url}"
                     )
 
@@ -260,13 +345,13 @@ class EtreMonitor(BaseMonitor):
 
                     print(
                         "[ETRÉ TOKYO] "
-                        f"当前页发现 "
+                        "当前页发现 "
                         f"{len(page_products)} "
                         "个商品，"
-                        f"新增 "
+                        "新增 "
                         f"{new_count} "
                         "个，"
-                        f"当前去重总数 "
+                        "当前去重总数 "
                         f"{len(all_links)} "
                         "个"
                     )
@@ -289,7 +374,7 @@ class EtreMonitor(BaseMonitor):
             print(
                 "[ETRÉ TOKYO] "
                 "商品列表读取完成，"
-                f"去重后共发现 "
+                "去重后共发现 "
                 f"{len(all_links)} "
                 "个商品链接"
             )
@@ -493,7 +578,7 @@ class EtreMonitor(BaseMonitor):
         print(
             "[ETRÉ TOKYO] "
             "商品详情读取完成，"
-            f"成功保存 "
+            "成功保存 "
             f"{len(products)} "
             "个商品"
         )
