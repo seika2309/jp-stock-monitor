@@ -1,0 +1,1 @@
+{% extends "base.html" %}{% block content %}<h1>检查日志</h1><table><tr><th>ID</th><th>网站</th><th>开始</th><th>结束</th><th>状态</th><th>商品数</th><th>说明</th></tr>{% for r in rows %}<tr><td>{{r.id}}</td><td>{{r.site}}</td><td>{{r.started_at}}</td><td>{{r.finished_at}}</td><td>{{r.status}}</td><td>{{r.product_count}}</td><td>{{r.message}}</td></tr>{% endfor %}</table>{% endblock %}

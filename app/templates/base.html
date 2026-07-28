@@ -1,0 +1,11 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>日本购物库存监控</title><style>
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:#f6f6f4;color:#222;margin:0}
+nav{background:#202522;color:#fff;padding:15px 5%;display:flex;gap:20px;align-items:center}nav a{color:#fff;text-decoration:none}
+main{max-width:1180px;margin:25px auto;padding:0 18px}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:15px}
+.card{background:#fff;border-radius:14px;padding:18px;box-shadow:0 2px 12px #0000000d}.big{font-size:28px;font-weight:700}
+button{background:#202522;color:#fff;border:0;border-radius:9px;padding:10px 16px;cursor:pointer}
+table{width:100%;border-collapse:collapse;background:#fff;border-radius:12px;overflow:hidden}th,td{padding:11px;border-bottom:1px solid #eee;text-align:left;font-size:14px}
+.badge{padding:4px 8px;border-radius:999px;background:#eee}.out_of_stock{background:#ffe1e1}.in_stock{background:#ddf5df}.unknown{background:#eee}
+img.thumb{width:52px;height:52px;object-fit:cover;border-radius:8px}.muted{color:#777}.top{display:flex;justify-content:space-between;align-items:center;margin-bottom:18px}
+</style></head><body><nav><strong>库存监控工作台</strong><a href="/">总览</a><a href="/products">商品</a><a href="/logs">检查日志</a></nav><main>{% block content %}{% endblock %}</main></body></html>

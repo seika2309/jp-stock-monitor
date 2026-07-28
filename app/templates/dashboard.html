@@ -1,0 +1,8 @@
+{% extends "base.html" %}{% block content %}
+<div class="top"><div><h1>库存监控总览</h1><div class="muted">全站商品列表每 60 分钟更新一次</div></div>
+<form method="post" action="/run"><button>立即检查两个网站</button></form></div>
+<div class="grid">{% for s in sites %}<div class="card"><h3>{{s.site}}</h3><div class="big">{{s.products or 0}}</div><div>已记录商品</div><p>当前缺货变体：<b>{{s.out_count or 0}}</b></p><small class="muted">最后检查：{{s.last_checked or "尚未检查"}}</small></div>{% endfor %}</div>
+<h2>最新库存变化</h2><table><tr><th>时间</th><th>网站</th><th>商品</th><th>颜色</th><th>尺码</th><th>变化</th></tr>
+{% for x in changes %}<tr><td>{{x.detected_at}}</td><td>{{x.site}}</td><td><a href="/product/{{x.product_id}}">{{x.name}}</a></td><td>{{x.color or "-"}}</td><td>{{x.size or "-"}}</td><td><span class="badge {{x.new_status}}">{{x.old_status}} → {{x.new_status}}</span></td></tr>{% else %}<tr><td colspan="6">第一次扫描后这里会显示变化。首次建立库存快照不会产生变化提醒。</td></tr>{% endfor %}</table>
+<h2>最近检查</h2><table><tr><th>网站</th><th>开始</th><th>结果</th><th>商品数</th><th>说明</th></tr>{% for r in runs %}<tr><td>{{r.site}}</td><td>{{r.started_at}}</td><td>{{r.status}}</td><td>{{r.product_count}}</td><td>{{r.message}}</td></tr>{% endfor %}</table>
+{% endblock %}
