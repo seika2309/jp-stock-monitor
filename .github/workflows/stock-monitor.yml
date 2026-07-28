@@ -26,8 +26,9 @@ jobs:
 
       - name: 运行库存监控
         run: |
-          python -c "
+          python - <<'PYTHON'
           import asyncio
+
           from app.db import init_db
           from app.service import run_monitor
           from app.monitors.lifes import LifesMonitor
@@ -35,8 +36,16 @@ jobs:
 
           async def main():
               init_db()
-              await run_monitor(LifesMonitor())
-              await run_monitor(EtreMonitor())
+
+              print("开始检查 LIFE's #203...")
+              lifes_count = await run_monitor(LifesMonitor())
+              print(f"LIFE's #203：发现 {lifes_count} 个商品")
+
+              print("开始检查 ETRÉ TOKYO...")
+              etre_count = await run_monitor(EtreMonitor())
+              print(f"ETRÉ TOKYO：发现 {etre_count} 个商品")
+
+              print("两个网站检查完成")
 
           asyncio.run(main())
-          "
+          PYTHON
