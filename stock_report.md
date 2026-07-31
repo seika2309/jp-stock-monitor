@@ -1,14 +1,21 @@
 # 日本购物网站库存报告
 
-更新时间：2026-07-31 08:26:20
+更新时间：2026-07-31 16:33:27
 
 ## 库存统计
 
-- ETRÉ TOKYO：商品 181 个，缺货规格 24 个
+- ETRÉ TOKYO：商品 181 个，缺货规格 31 个
 - LIFE's #203：商品 228 个，缺货规格 0 个
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] カットオフフリルネックシャツ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] コットンシルクスキッパーシャツ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] シアーコットンシャツ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ボールドショルダーシャツ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] オフショルダーボリュームスリーブブラウス   : in_stock → out_of_stock
+- [ETRÉ TOKYO] シアークロシェニットプルオーバー   : in_stock → out_of_stock
+- [ETRÉ TOKYO] コットンドビーカシュクールキャミソール   : in_stock → out_of_stock
 - [ETRÉ TOKYO] SANTEダブルクロスデザインネックオールインワン   : in_stock → out_of_stock
 - [ETRÉ TOKYO] SANTEケープディテールドレス   : in_stock → out_of_stock
 - [ETRÉ TOKYO] タンクトップコンビロングワンピース   : in_stock → out_of_stock
@@ -52,10 +59,3 @@
 - [ETRÉ TOKYO] Levi's LOW LOOSE   : out_of_stock → in_stock
 - [ETRÉ TOKYO] EDWIN×ETRE TOKYOデニムオールインワン   : out_of_stock → in_stock
 - [ETRÉ TOKYO] ダブルガーゼショートパンツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] トリコットスイムキャップ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] SANTEアクセサリーボタンノーカラーシャツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] キュプラシャツジャケット   : out_of_stock → in_stock
-- [ETRÉ TOKYO] コットンリネンハーフパンツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ラフィアフラットシューズ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] オリジナルマルチチェックシャツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] カラーメローシアーTee   : out_of_stock → in_stock
