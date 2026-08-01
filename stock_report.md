@@ -1,14 +1,26 @@
 # 日本购物网站库存报告
 
-更新时间：2026-08-01 00:29:45
+更新时间：2026-08-01 09:17:35
 
 ## 库存统计
 
-- ETRÉ TOKYO：商品 181 个，缺货规格 31 个
+- ETRÉ TOKYO：商品 181 个，缺货规格 43 个
 - LIFE's #203：商品 228 个，缺货规格 0 个
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] カットオフソフトスウェットシャツ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] クロシェニットパンツ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] エアリースウェットパンツ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] クラッシーリラックスパンツ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] エンブロイダリーイージーパンツ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] リラクシーキュプラパンツ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] トリアセテートオックスリラクシーパンツ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] キュプラジャージロングスカート   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ボリュームミディスカート   : in_stock → out_of_stock
+- [ETRÉ TOKYO] レースコットンキャミワンピース   : in_stock → out_of_stock
+- [ETRÉ TOKYO] レースコンビオールインワン   : in_stock → out_of_stock
+- [ETRÉ TOKYO] オープンバックスリーブレスニットワンピース   : in_stock → out_of_stock
 - [ETRÉ TOKYO] フェイクスウェード2wayキャミチュニック   : unknown → in_stock
 - [ETRÉ TOKYO] レースコンビフロントオープンキャミソール   : unknown → in_stock
 - [ETRÉ TOKYO] 2パックアイレットTee   : unknown → in_stock
@@ -47,15 +59,3 @@
 - [ETRÉ TOKYO] Zoff｜ETRE TOKYO Wellington Metal Glasses   : in_stock → unknown
 - [ETRÉ TOKYO] Zoff｜ETRE TOKYO Oval Sunglasses   : in_stock → unknown
 - [ETRÉ TOKYO] カラーメローシアーTee   : in_stock → out_of_stock
-- [ETRÉ TOKYO] CA4LA×ETRE TOKYO SCARF CAP   : in_stock → out_of_stock
-- [ETRÉ TOKYO] プレーンステッチＶネックニットカーディガン   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ネックコードコームネックチャーム   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ASAUCEMELERヤク×アルパカシャンブレーシャギーストール   : out_of_stock → in_stock
-- [ETRÉ TOKYO] YANUK×ETRE TOKYO Center Crease Straight Denim   : out_of_stock → in_stock
-- [ETRÉ TOKYO] YANUK×ETRE TOKYO Pegtop Denim   : out_of_stock → in_stock
-- [ETRÉ TOKYO] パイピングビキニスイムウエア   : out_of_stock → in_stock
-- [ETRÉ TOKYO] バックリボンビキニスイムウェア   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ボリュームスリーブカバーアップ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ペプラムヘムニットタンクトップ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] three dots サンデットジャージークルーネックTee   : out_of_stock → in_stock
-- [ETRÉ TOKYO] フロントスリットカットジャガードスカート   : out_of_stock → in_stock
