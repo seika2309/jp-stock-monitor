@@ -1,14 +1,15 @@
 # 日本购物网站库存报告
 
-更新时间：2026-08-02 15:04:13
+更新时间：2026-08-02 18:30:53
 
 ## 库存统计
 
-- ETRÉ TOKYO：商品 181 个，缺货规格 180 个
+- ETRÉ TOKYO：商品 181 个，缺货规格 179 个
 - LIFE's #203：商品 228 个，缺货规格 0 个
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO]    : out_of_stock → unknown
 - [ETRÉ TOKYO] ASAUCEMELERヤク×アルパカシャンブレーシャギーストール   : in_stock → out_of_stock
 - [ETRÉ TOKYO] YANUK×ETRE TOKYO Center Crease Straight Denim   : in_stock → out_of_stock
 - [ETRÉ TOKYO] YANUK×ETRE TOKYO Pegtop Denim   : in_stock → out_of_stock
@@ -58,4 +59,3 @@
 - [ETRÉ TOKYO] ダブルフェイスデザインウエストワイドパンツ   : in_stock → out_of_stock
 - [ETRÉ TOKYO] SANTEセンタークリーステーパードパンツ   : in_stock → out_of_stock
 - [ETRÉ TOKYO] ダブルフェイスIラインスカート   : in_stock → out_of_stock
-- [ETRÉ TOKYO] ナローケーブルニットワンピース   : in_stock → out_of_stock
