@@ -1,6 +1,6 @@
 # 日本购物网站库存报告
 
-更新时间：2026-08-04 16:44:51
+更新时间：2026-08-04 21:20:50
 
 ## 库存统计
 
@@ -9,6 +9,11 @@
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] ディストレストストレートデニム   : unknown → in_stock
+- [ETRÉ TOKYO] レースコンビオールインワン   : unknown → in_stock
+- [ETRÉ TOKYO] Zoff｜ETRE TOKYO Wellington Metal Glasses   : unknown → in_stock
+- [ETRÉ TOKYO] Zoff｜ETRE TOKYO Oval Sunglasses   : unknown → in_stock
+- [ETRÉ TOKYO] レザーグラスコード   : unknown → in_stock
 - [ETRÉ TOKYO] レースコンビフロントオープンキャミソール   : unknown → in_stock
 - [ETRÉ TOKYO] フロントファスナーニットベアトップス   : out_of_stock → in_stock
 - [ETRÉ TOKYO] ペプラムヘムニットタンクトップ   : out_of_stock → in_stock
@@ -54,8 +59,3 @@
 - [ETRÉ TOKYO] ボリュームスリーブボートネックブラウス   : out_of_stock → in_stock
 - [ETRÉ TOKYO] リネンライクボールドショルダージレ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] ミックスヤーンニットタンクトップ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] フレンチスリーブローゲージニットプルオーバー   : out_of_stock → in_stock
-- [ETRÉ TOKYO] SANTEダブルクロスデザインネックオールインワン   : out_of_stock → in_stock
-- [ETRÉ TOKYO] SANTEケープディテールドレス   : out_of_stock → in_stock
-- [ETRÉ TOKYO] タンクトップコンビロングワンピース   : out_of_stock → in_stock
-- [ETRÉ TOKYO] Silver925クラッチピアス   : out_of_stock → in_stock
