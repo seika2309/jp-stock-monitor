@@ -1,6 +1,6 @@
 # 日本购物网站库存报告
 
-更新时间：2026-08-04 08:32:06
+更新时间：2026-08-04 16:44:51
 
 ## 库存统计
 
@@ -9,6 +9,7 @@
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] レースコンビフロントオープンキャミソール   : unknown → in_stock
 - [ETRÉ TOKYO] フロントファスナーニットベアトップス   : out_of_stock → in_stock
 - [ETRÉ TOKYO] ペプラムヘムニットタンクトップ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] three dots サンデットジャージークルーネックTee   : out_of_stock → in_stock
@@ -58,4 +59,3 @@
 - [ETRÉ TOKYO] SANTEケープディテールドレス   : out_of_stock → in_stock
 - [ETRÉ TOKYO] タンクトップコンビロングワンピース   : out_of_stock → in_stock
 - [ETRÉ TOKYO] Silver925クラッチピアス   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ハンドステッチタンドレザーフラットサンダル   : out_of_stock → in_stock
