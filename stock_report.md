@@ -1,6 +1,6 @@
 # 日本购物网站库存报告
 
-更新时间：2026-08-05 13:35:06
+更新时间：2026-08-05 19:26:38
 
 ## 库存统计
 
@@ -9,6 +9,11 @@
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] ディストレストストレートデニム   : in_stock → unknown
+- [ETRÉ TOKYO] レースコンビオールインワン   : in_stock → unknown
+- [ETRÉ TOKYO] Zoff｜ETRE TOKYO Wellington Metal Glasses   : in_stock → unknown
+- [ETRÉ TOKYO] Zoff｜ETRE TOKYO Oval Sunglasses   : in_stock → unknown
+- [ETRÉ TOKYO] レザーグラスコード   : in_stock → unknown
 - [ETRÉ TOKYO] VネックミニマルTee   : in_stock → out_of_stock
 - [ETRÉ TOKYO] ボールドショルダーUネックTee   : in_stock → out_of_stock
 - [ETRÉ TOKYO] three dotsオーガニックコットンリンガーTee   : in_stock → out_of_stock
@@ -54,8 +59,3 @@
 - [ETRÉ TOKYO] クラッシーリラックスパンツ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] エンブロイダリーイージーパンツ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] リラクシーキュプラパンツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] タンドレザージップリップケース   : out_of_stock → in_stock
-- [ETRÉ TOKYO] タンドレザージップサングラスケース   : out_of_stock → in_stock
-- [ETRÉ TOKYO] パイルギャザーミニスカート   : out_of_stock → in_stock
-- [ETRÉ TOKYO] サイドスリットパイルレギンス   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ヘムギャザーオールインワン   : out_of_stock → in_stock
