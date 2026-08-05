@@ -1,14 +1,20 @@
 # 日本购物网站库存报告
 
-更新时间：2026-08-05 06:32:51
+更新时间：2026-08-05 13:35:06
 
 ## 库存统计
 
-- ETRÉ TOKYO：商品 202 个，缺货规格 2 个
+- ETRÉ TOKYO：商品 202 个，缺货规格 8 个
 - LIFE's #203：商品 272 个，缺货规格 0 个
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] VネックミニマルTee   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ボールドショルダーUネックTee   : in_stock → out_of_stock
+- [ETRÉ TOKYO] three dotsオーガニックコットンリンガーTee   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ダブルクロスハイウエストタックパンツ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] コットンドビーギャザーパンツ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ガーメントダイソフトシアーパンツ   : in_stock → out_of_stock
 - [ETRÉ TOKYO] ディストレストストレートデニム   : unknown → in_stock
 - [ETRÉ TOKYO] レースコンビオールインワン   : unknown → in_stock
 - [ETRÉ TOKYO] Zoff｜ETRE TOKYO Wellington Metal Glasses   : unknown → in_stock
@@ -53,9 +59,3 @@
 - [ETRÉ TOKYO] パイルギャザーミニスカート   : out_of_stock → in_stock
 - [ETRÉ TOKYO] サイドスリットパイルレギンス   : out_of_stock → in_stock
 - [ETRÉ TOKYO] ヘムギャザーオールインワン   : out_of_stock → in_stock
-- [ETRÉ TOKYO] フェードパイルショートパンツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ガーメントダイソフトシアーシャツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ボリュームスリーブ2wayトップス   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ボリュームスリーブボートネックブラウス   : out_of_stock → in_stock
-- [ETRÉ TOKYO] リネンライクボールドショルダージレ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ミックスヤーンニットタンクトップ   : out_of_stock → in_stock
