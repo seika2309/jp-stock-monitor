@@ -1,14 +1,18 @@
 # 日本购物网站库存报告
 
-更新时间：2026-08-05 23:48:12
+更新时间：2026-08-06 10:30:43
 
 ## 库存统计
 
 - ETRÉ TOKYO：商品 202 个，缺货规格 8 个
-- LIFE's #203：商品 272 个，缺货规格 0 个
+- LIFE's #203：商品 281 个，缺货规格 0 个
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] ディストレストストレートデニム   : unknown → in_stock
+- [ETRÉ TOKYO] Zoff｜ETRE TOKYO Wellington Metal Glasses   : unknown → in_stock
+- [ETRÉ TOKYO] Zoff｜ETRE TOKYO Oval Sunglasses   : unknown → in_stock
+- [ETRÉ TOKYO] レザーグラスコード   : unknown → in_stock
 - [ETRÉ TOKYO] ディストレストストレートデニム   : in_stock → unknown
 - [ETRÉ TOKYO] レースコンビオールインワン   : in_stock → unknown
 - [ETRÉ TOKYO] Zoff｜ETRE TOKYO Wellington Metal Glasses   : in_stock → unknown
@@ -55,7 +59,3 @@
 - [ETRÉ TOKYO] シアークロシェニットプルオーバー   : out_of_stock → in_stock
 - [ETRÉ TOKYO] カットオフソフトスウェットシャツ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] クロシェニットパンツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] エアリースウェットパンツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] クラッシーリラックスパンツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] エンブロイダリーイージーパンツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] リラクシーキュプラパンツ   : out_of_stock → in_stock
