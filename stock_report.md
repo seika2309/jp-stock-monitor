@@ -1,6 +1,6 @@
 # 日本购物网站库存报告
 
-更新时间：2026-08-07 10:33:10
+更新时间：2026-08-07 14:51:40
 
 ## 库存统计
 
@@ -9,6 +9,7 @@
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] レースコンビオールインワン   : unknown → in_stock
 - [ETRÉ TOKYO] three dots オーガニックコットンクルーネックTee   : in_stock → out_of_stock
 - [ETRÉ TOKYO] three dots サンデットジャージークルーネックTee   : in_stock → out_of_stock
 - [ETRÉ TOKYO] フロントスリットカットジャガードスカート   : in_stock → out_of_stock
@@ -58,4 +59,3 @@
 - [ETRÉ TOKYO] three dots サンデットジャージークルーネックTee   : out_of_stock → in_stock
 - [ETRÉ TOKYO] フロントスリットカットジャガードスカート   : out_of_stock → in_stock
 - [ETRÉ TOKYO] DEPENDREブロードシャツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] DEPENDREシアーロンTee   : out_of_stock → in_stock
