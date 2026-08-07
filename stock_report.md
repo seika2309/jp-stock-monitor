@@ -1,14 +1,20 @@
 # 日本购物网站库存报告
 
-更新时间：2026-08-06 10:30:43
+更新时间：2026-08-07 02:14:28
 
 ## 库存统计
 
-- ETRÉ TOKYO：商品 202 个，缺货规格 8 个
-- LIFE's #203：商品 281 个，缺货规格 0 个
+- ETRÉ TOKYO：商品 202 个，缺货规格 14 个
+- LIFE's #203：商品 286 个，缺货规格 0 个
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] エンブロイダリーローゲージニットプルオーバー   : in_stock → out_of_stock
+- [ETRÉ TOKYO] バトーネックカットプルオーバー   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ボートネックカフスロンTee   : in_stock → out_of_stock
+- [ETRÉ TOKYO] アウトステッチクルーネックロンTee   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ワンショルダードレーププルオーバー   : in_stock → out_of_stock
+- [ETRÉ TOKYO] 3/4スリーブヘンリーネックプルオーバー   : in_stock → out_of_stock
 - [ETRÉ TOKYO] ディストレストストレートデニム   : unknown → in_stock
 - [ETRÉ TOKYO] Zoff｜ETRE TOKYO Wellington Metal Glasses   : unknown → in_stock
 - [ETRÉ TOKYO] Zoff｜ETRE TOKYO Oval Sunglasses   : unknown → in_stock
@@ -53,9 +59,3 @@
 - [ETRÉ TOKYO] Vネックリブニットカーディガン   : out_of_stock → in_stock
 - [ETRÉ TOKYO] カットオフフリルネックシャツ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] コットンシルクスキッパーシャツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] シアーコットンシャツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ボールドショルダーシャツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] オフショルダーボリュームスリーブブラウス   : out_of_stock → in_stock
-- [ETRÉ TOKYO] シアークロシェニットプルオーバー   : out_of_stock → in_stock
-- [ETRÉ TOKYO] カットオフソフトスウェットシャツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] クロシェニットパンツ   : out_of_stock → in_stock
