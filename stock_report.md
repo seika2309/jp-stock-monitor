@@ -1,14 +1,31 @@
 # 日本购物网站库存报告
 
-更新时间：2026-08-07 02:14:28
+更新时间：2026-08-07 06:33:42
 
 ## 库存统计
 
-- ETRÉ TOKYO：商品 202 个，缺货规格 14 个
-- LIFE's #203：商品 286 个，缺货规格 0 个
+- ETRÉ TOKYO：商品 202 个，缺货规格 31 个
+- LIFE's #203：商品 306 个，缺货规格 0 个
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] three dots オーガニックコットンクルーネックTee   : in_stock → out_of_stock
+- [ETRÉ TOKYO] three dots サンデットジャージークルーネックTee   : in_stock → out_of_stock
+- [ETRÉ TOKYO] フロントスリットカットジャガードスカート   : in_stock → out_of_stock
+- [ETRÉ TOKYO] DEPENDREブロードシャツ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] DEPENDREシアーロンTee   : in_stock → out_of_stock
+- [ETRÉ TOKYO] DEPENDRE Wストラップニットキャミ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] SANTEアクセサリーボタンノーカラーシャツ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] キュプラシャツジャケット   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ダブルクロススリーブレスカップインプルオーバー   : in_stock → out_of_stock
+- [ETRÉ TOKYO] three dots パウダリーコットンTee   : in_stock → out_of_stock
+- [ETRÉ TOKYO] コットンリネンハーフパンツ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ラフィアフラットシューズ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ハーフスリーブハイネックシアープルオーバー   : in_stock → out_of_stock
+- [ETRÉ TOKYO] カットオフソフトスウェットシャツ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] クロシェニットパンツ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] エアリースウェットパンツ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] クラッシーリラックスパンツ   : in_stock → out_of_stock
 - [ETRÉ TOKYO] エンブロイダリーローゲージニットプルオーバー   : in_stock → out_of_stock
 - [ETRÉ TOKYO] バトーネックカットプルオーバー   : in_stock → out_of_stock
 - [ETRÉ TOKYO] ボートネックカフスロンTee   : in_stock → out_of_stock
@@ -42,20 +59,3 @@
 - [ETRÉ TOKYO] フロントスリットカットジャガードスカート   : out_of_stock → in_stock
 - [ETRÉ TOKYO] DEPENDREブロードシャツ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] DEPENDREシアーロンTee   : out_of_stock → in_stock
-- [ETRÉ TOKYO] カラーメローシアーTee   : out_of_stock → in_stock
-- [ETRÉ TOKYO] CA4LA×ETRE TOKYO ECO FUR MOUTON TOQUE HAT   : out_of_stock → in_stock
-- [ETRÉ TOKYO] CUTIPOL MOONディナーナイフ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] CUTIPOL MOONディナーフォーク   : out_of_stock → in_stock
-- [ETRÉ TOKYO] CUTIPOL SUIテーブルスプーン   : out_of_stock → in_stock
-- [ETRÉ TOKYO] プレーンステッチＶネックニットカーディガン   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ネックコードコームネックチャーム   : out_of_stock → in_stock
-- [ETRÉ TOKYO] CUTIPOL MOONディナーナイフ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] CUTIPOL MOONディナーフォーク   : out_of_stock → in_stock
-- [ETRÉ TOKYO] リングパーツマルチポーチ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] サイドベンツテーラードジャケット   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ナイロンエアリージャケット   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ハイネックドルマンスリーブシャツブルゾン   : out_of_stock → in_stock
-- [ETRÉ TOKYO] キルトショートカーディガン   : out_of_stock → in_stock
-- [ETRÉ TOKYO] Vネックリブニットカーディガン   : out_of_stock → in_stock
-- [ETRÉ TOKYO] カットオフフリルネックシャツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] コットンシルクスキッパーシャツ   : out_of_stock → in_stock
