@@ -1,14 +1,20 @@
 # 日本购物网站库存报告
 
-更新时间：2026-08-08 11:25:21
+更新时间：2026-08-08 14:22:14
 
 ## 库存统计
 
-- ETRÉ TOKYO：商品 202 个，缺货规格 37 个
+- ETRÉ TOKYO：商品 202 个，缺货规格 43 个
 - LIFE's #203：商品 306 个，缺货规格 0 个
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] カラーメローシアーTee   : in_stock → out_of_stock
+- [ETRÉ TOKYO] CA4LA×ETRE TOKYO ECO FUR MOUTON TOQUE HAT   : in_stock → out_of_stock
+- [ETRÉ TOKYO] CUTIPOL MOONディナーナイフ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] CUTIPOL MOONディナーフォーク   : in_stock → out_of_stock
+- [ETRÉ TOKYO] CUTIPOL SUIテーブルスプーン   : in_stock → out_of_stock
+- [ETRÉ TOKYO] プレーンステッチＶネックニットカーディガン   : in_stock → out_of_stock
 - [ETRÉ TOKYO] ブラスバックルレザーベルト   : in_stock → unknown
 - [ETRÉ TOKYO] スクエアパースキーホルダー   : in_stock → out_of_stock
 - [ETRÉ TOKYO] リングパーツマルチポーチ   : in_stock → out_of_stock
@@ -53,9 +59,3 @@
 - [ETRÉ TOKYO] ボールドショルダーUネックTee   : in_stock → out_of_stock
 - [ETRÉ TOKYO] three dotsオーガニックコットンリンガーTee   : in_stock → out_of_stock
 - [ETRÉ TOKYO] ダブルクロスハイウエストタックパンツ   : in_stock → out_of_stock
-- [ETRÉ TOKYO] コットンドビーギャザーパンツ   : in_stock → out_of_stock
-- [ETRÉ TOKYO] ガーメントダイソフトシアーパンツ   : in_stock → out_of_stock
-- [ETRÉ TOKYO] ディストレストストレートデニム   : unknown → in_stock
-- [ETRÉ TOKYO] レースコンビオールインワン   : unknown → in_stock
-- [ETRÉ TOKYO] Zoff｜ETRE TOKYO Wellington Metal Glasses   : unknown → in_stock
-- [ETRÉ TOKYO] Zoff｜ETRE TOKYO Oval Sunglasses   : unknown → in_stock
