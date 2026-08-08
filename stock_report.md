@@ -1,14 +1,21 @@
 # 日本购物网站库存报告
 
-更新时间：2026-08-07 23:20:08
+更新时间：2026-08-08 04:17:46
 
 ## 库存统计
 
-- ETRÉ TOKYO：商品 202 个，缺货规格 31 个
+- ETRÉ TOKYO：商品 202 个，缺货规格 37 个
 - LIFE's #203：商品 306 个，缺货规格 0 个
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] ブラスバックルレザーベルト   : in_stock → unknown
+- [ETRÉ TOKYO] スクエアパースキーホルダー   : in_stock → out_of_stock
+- [ETRÉ TOKYO] リングパーツマルチポーチ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] サイドベンツテーラードジャケット   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ナイロンエアリージャケット   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ハイネックドルマンスリーブシャツブルゾン   : in_stock → out_of_stock
+- [ETRÉ TOKYO] キルトショートカーディガン   : in_stock → out_of_stock
 - [ETRÉ TOKYO] レースコンビオールインワン   : unknown → in_stock
 - [ETRÉ TOKYO] three dots オーガニックコットンクルーネックTee   : in_stock → out_of_stock
 - [ETRÉ TOKYO] three dots サンデットジャージークルーネックTee   : in_stock → out_of_stock
@@ -52,10 +59,3 @@
 - [ETRÉ TOKYO] レースコンビオールインワン   : unknown → in_stock
 - [ETRÉ TOKYO] Zoff｜ETRE TOKYO Wellington Metal Glasses   : unknown → in_stock
 - [ETRÉ TOKYO] Zoff｜ETRE TOKYO Oval Sunglasses   : unknown → in_stock
-- [ETRÉ TOKYO] レザーグラスコード   : unknown → in_stock
-- [ETRÉ TOKYO] レースコンビフロントオープンキャミソール   : unknown → in_stock
-- [ETRÉ TOKYO] フロントファスナーニットベアトップス   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ペプラムヘムニットタンクトップ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] three dots サンデットジャージークルーネックTee   : out_of_stock → in_stock
-- [ETRÉ TOKYO] フロントスリットカットジャガードスカート   : out_of_stock → in_stock
-- [ETRÉ TOKYO] DEPENDREブロードシャツ   : out_of_stock → in_stock
