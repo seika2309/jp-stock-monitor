@@ -1,14 +1,28 @@
 # 日本购物网站库存报告
 
-更新时间：2026-08-09 05:02:01
+更新时间：2026-08-09 08:17:27
 
 ## 库存统计
 
-- ETRÉ TOKYO：商品 202 个，缺货规格 43 个
+- ETRÉ TOKYO：商品 202 个，缺货规格 55 个
 - LIFE's #203：商品 306 个，缺货规格 0 个
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] フィブリルマーメイドスカート   : in_stock → unknown
+- [ETRÉ TOKYO] プランジングネックダブルガーゼオールインワン   : in_stock → out_of_stock
+- [ETRÉ TOKYO] SANTEダブルクロスデザインネックオールインワン   : in_stock → out_of_stock
+- [ETRÉ TOKYO] SANTEケープディテールドレス   : in_stock → out_of_stock
+- [ETRÉ TOKYO] タンクトップコンビロングワンピース   : in_stock → out_of_stock
+- [ETRÉ TOKYO] Silver925クラッチピアス   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ハンドステッチタンドレザーフラットサンダル   : in_stock → out_of_stock
+- [ETRÉ TOKYO] エンボスレザーギャザーローファー   : in_stock → unknown
+- [ETRÉ TOKYO] パテッドソフトスニーカー   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ナローショルダースウェードミニバッグ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] Zoff｜ETRE TOKYO Wellington Metal Glasses   : in_stock → out_of_stock
+- [ETRÉ TOKYO] Zoff｜ETRE TOKYO Oval Sunglasses   : in_stock → out_of_stock
+- [ETRÉ TOKYO] DEPENDREコンフォートソックス   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ドローストリングミニポーチ   : in_stock → out_of_stock
 - [ETRÉ TOKYO] カラーメローシアーTee   : in_stock → out_of_stock
 - [ETRÉ TOKYO] CA4LA×ETRE TOKYO ECO FUR MOUTON TOQUE HAT   : in_stock → out_of_stock
 - [ETRÉ TOKYO] CUTIPOL MOONディナーナイフ   : in_stock → out_of_stock
@@ -45,17 +59,3 @@
 - [ETRÉ TOKYO] ボートネックカフスロンTee   : in_stock → out_of_stock
 - [ETRÉ TOKYO] アウトステッチクルーネックロンTee   : in_stock → out_of_stock
 - [ETRÉ TOKYO] ワンショルダードレーププルオーバー   : in_stock → out_of_stock
-- [ETRÉ TOKYO] 3/4スリーブヘンリーネックプルオーバー   : in_stock → out_of_stock
-- [ETRÉ TOKYO] ディストレストストレートデニム   : unknown → in_stock
-- [ETRÉ TOKYO] Zoff｜ETRE TOKYO Wellington Metal Glasses   : unknown → in_stock
-- [ETRÉ TOKYO] Zoff｜ETRE TOKYO Oval Sunglasses   : unknown → in_stock
-- [ETRÉ TOKYO] レザーグラスコード   : unknown → in_stock
-- [ETRÉ TOKYO] ディストレストストレートデニム   : in_stock → unknown
-- [ETRÉ TOKYO] レースコンビオールインワン   : in_stock → unknown
-- [ETRÉ TOKYO] Zoff｜ETRE TOKYO Wellington Metal Glasses   : in_stock → unknown
-- [ETRÉ TOKYO] Zoff｜ETRE TOKYO Oval Sunglasses   : in_stock → unknown
-- [ETRÉ TOKYO] レザーグラスコード   : in_stock → unknown
-- [ETRÉ TOKYO] VネックミニマルTee   : in_stock → out_of_stock
-- [ETRÉ TOKYO] ボールドショルダーUネックTee   : in_stock → out_of_stock
-- [ETRÉ TOKYO] three dotsオーガニックコットンリンガーTee   : in_stock → out_of_stock
-- [ETRÉ TOKYO] ダブルクロスハイウエストタックパンツ   : in_stock → out_of_stock
