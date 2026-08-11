@@ -1,61 +1,61 @@
 # 日本购物网站库存报告
 
-更新时间：2026-08-11 15:49:31
+更新时间：2026-08-11 20:06:45
 
 ## 库存统计
 
-- ETRÉ TOKYO：商品 208 个，缺货规格 188 个
+- ETRÉ TOKYO：商品 208 个，缺货规格 69 个
 - LIFE's #203：商品 306 个，缺货规格 0 个
 
 ## 最近库存变化
 
-- [ETRÉ TOKYO] ASAUCEMELERヤク×アルパカシャンブレーシャギーストール   : in_stock → out_of_stock
-- [ETRÉ TOKYO] YANUK×ETRE TOKYO Center Crease Straight Denim   : in_stock → out_of_stock
-- [ETRÉ TOKYO] YANUK×ETRE TOKYO Pegtop Denim   : in_stock → out_of_stock
-- [ETRÉ TOKYO] パイピングビキニスイムウエア   : in_stock → out_of_stock
-- [ETRÉ TOKYO] バックリボンビキニスイムウェア   : in_stock → out_of_stock
-- [ETRÉ TOKYO] フロントファスナーニットベアトップス   : in_stock → out_of_stock
-- [ETRÉ TOKYO] ペプラムヘムニットタンクトップ   : in_stock → out_of_stock
-- [ETRÉ TOKYO] DEPENDRE カップインランダムテレコタンク   : in_stock → out_of_stock
-- [ETRÉ TOKYO] ハイゲージバイカーニットパンツ   : in_stock → out_of_stock
-- [ETRÉ TOKYO] Levi's LOW LOOSE   : in_stock → out_of_stock
-- [ETRÉ TOKYO] EDWIN×ETRE TOKYOデニムオールインワン   : in_stock → out_of_stock
-- [ETRÉ TOKYO] ダブルガーゼショートパンツ   : in_stock → out_of_stock
-- [ETRÉ TOKYO] トリコットスイムキャップ   : in_stock → out_of_stock
-- [ETRÉ TOKYO] タックバルーンプルオーバー   : in_stock → out_of_stock
-- [ETRÉ TOKYO] バンドゥセットニットキャミソール   : in_stock → out_of_stock
-- [ETRÉ TOKYO] ネックコードコームネックチャーム   : in_stock → out_of_stock
-- [ETRÉ TOKYO] CUTIPOL MOONディナーナイフ   : in_stock → out_of_stock
-- [ETRÉ TOKYO] CUTIPOL MOONディナーフォーク   : in_stock → out_of_stock
-- [ETRÉ TOKYO] CUTIPOL SUIテーブルスプーン   : in_stock → out_of_stock
-- [ETRÉ TOKYO] ステンカラーボンディングコート   : in_stock → out_of_stock
-- [ETRÉ TOKYO] SANTEドルマンスリーブジャガードコート   : in_stock → out_of_stock
-- [ETRÉ TOKYO] パディングワークブルゾン   : in_stock → out_of_stock
-- [ETRÉ TOKYO] ジャガードノーカラージャケット   : in_stock → out_of_stock
-- [ETRÉ TOKYO] SANTEコンストラクティブジャケット   : in_stock → out_of_stock
-- [ETRÉ TOKYO] ファンシーヤーンクルーネックニットカーディガン   : in_stock → out_of_stock
-- [ETRÉ TOKYO] ダブルフェイスＶネックニットカーディガン   : in_stock → out_of_stock
-- [ETRÉ TOKYO] キュプラネクタイオーバーサイズシャツ   : in_stock → out_of_stock
-- [ETRÉ TOKYO] フロントファスナーウエストシェイプトップス   : in_stock → out_of_stock
-- [ETRÉ TOKYO] ウールカシミヤタートルネックニットプルオーバー   : in_stock → out_of_stock
-- [ETRÉ TOKYO] ウールカシミヤスリーブレスニットプルオーバー   : in_stock → out_of_stock
-- [ETRÉ TOKYO] リバーシブルボックスニットプルオーバー   : in_stock → out_of_stock
-- [ETRÉ TOKYO] ミドルゲージコンパクトニットカーディガン   : in_stock → out_of_stock
-- [ETRÉ TOKYO] フラッフィーVネックプルオーバー   : in_stock → out_of_stock
-- [ETRÉ TOKYO] コンパクトスウェットシャツ   : in_stock → out_of_stock
-- [ETRÉ TOKYO] オーガニックコットンUネックロンTee   : in_stock → out_of_stock
-- [ETRÉ TOKYO] サイドピンタックラインリラクシーパンツ   : in_stock → out_of_stock
-- [ETRÉ TOKYO] クリーンスウェットパンツ   : in_stock → out_of_stock
-- [ETRÉ TOKYO] ベルテッドタックワイドパンツ   : in_stock → out_of_stock
-- [ETRÉ TOKYO] ボンディングタックパンツ   : in_stock → out_of_stock
-- [ETRÉ TOKYO] ダブルフェイスデザインウエストワイドパンツ   : in_stock → out_of_stock
-- [ETRÉ TOKYO] SANTEセンタークリーステーパードパンツ   : in_stock → out_of_stock
-- [ETRÉ TOKYO] ダブルフェイスIラインスカート   : in_stock → out_of_stock
-- [ETRÉ TOKYO] ナローケーブルニットワンピース   : in_stock → out_of_stock
-- [ETRÉ TOKYO] コードヤーンケーブルニットワンピース   : in_stock → out_of_stock
-- [ETRÉ TOKYO] ソフトレザースクエアローファー   : in_stock → out_of_stock
-- [ETRÉ TOKYO] ブラスバックルレザーベルト   : unknown → out_of_stock
-- [ETRÉ TOKYO] Vネックリブニットカーディガン   : in_stock → out_of_stock
-- [ETRÉ TOKYO] カットオフフリルネックシャツ   : in_stock → out_of_stock
-- [ETRÉ TOKYO] コットンシルクスキッパーシャツ   : in_stock → out_of_stock
-- [ETRÉ TOKYO] シアーコットンシャツ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ASAUCEMELERヤク×アルパカシャンブレーシャギーストール   : out_of_stock → in_stock
+- [ETRÉ TOKYO] YANUK×ETRE TOKYO Center Crease Straight Denim   : out_of_stock → in_stock
+- [ETRÉ TOKYO] YANUK×ETRE TOKYO Pegtop Denim   : out_of_stock → in_stock
+- [ETRÉ TOKYO] パイピングビキニスイムウエア   : out_of_stock → in_stock
+- [ETRÉ TOKYO] バックリボンビキニスイムウェア   : out_of_stock → in_stock
+- [ETRÉ TOKYO] フロントファスナーニットベアトップス   : out_of_stock → in_stock
+- [ETRÉ TOKYO] ペプラムヘムニットタンクトップ   : out_of_stock → in_stock
+- [ETRÉ TOKYO] DEPENDRE カップインランダムテレコタンク   : out_of_stock → in_stock
+- [ETRÉ TOKYO] ハイゲージバイカーニットパンツ   : out_of_stock → in_stock
+- [ETRÉ TOKYO] Levi's LOW LOOSE   : out_of_stock → in_stock
+- [ETRÉ TOKYO] EDWIN×ETRE TOKYOデニムオールインワン   : out_of_stock → in_stock
+- [ETRÉ TOKYO] ダブルガーゼショートパンツ   : out_of_stock → in_stock
+- [ETRÉ TOKYO] トリコットスイムキャップ   : out_of_stock → in_stock
+- [ETRÉ TOKYO] タックバルーンプルオーバー   : out_of_stock → in_stock
+- [ETRÉ TOKYO] バンドゥセットニットキャミソール   : out_of_stock → in_stock
+- [ETRÉ TOKYO] パディングワークブルゾン   : out_of_stock → in_stock
+- [ETRÉ TOKYO] ジャガードノーカラージャケット   : out_of_stock → in_stock
+- [ETRÉ TOKYO] SANTEコンストラクティブジャケット   : out_of_stock → in_stock
+- [ETRÉ TOKYO] ファンシーヤーンクルーネックニットカーディガン   : out_of_stock → in_stock
+- [ETRÉ TOKYO] ダブルフェイスＶネックニットカーディガン   : out_of_stock → in_stock
+- [ETRÉ TOKYO] キュプラネクタイオーバーサイズシャツ   : out_of_stock → in_stock
+- [ETRÉ TOKYO] フロントファスナーウエストシェイプトップス   : out_of_stock → in_stock
+- [ETRÉ TOKYO] ウールカシミヤタートルネックニットプルオーバー   : out_of_stock → in_stock
+- [ETRÉ TOKYO] ウールカシミヤスリーブレスニットプルオーバー   : out_of_stock → in_stock
+- [ETRÉ TOKYO] リバーシブルボックスニットプルオーバー   : out_of_stock → in_stock
+- [ETRÉ TOKYO] ミドルゲージコンパクトニットカーディガン   : out_of_stock → in_stock
+- [ETRÉ TOKYO] フラッフィーVネックプルオーバー   : out_of_stock → in_stock
+- [ETRÉ TOKYO] コンパクトスウェットシャツ   : out_of_stock → in_stock
+- [ETRÉ TOKYO] オーガニックコットンUネックロンTee   : out_of_stock → in_stock
+- [ETRÉ TOKYO] サイドピンタックラインリラクシーパンツ   : out_of_stock → in_stock
+- [ETRÉ TOKYO] クリーンスウェットパンツ   : out_of_stock → in_stock
+- [ETRÉ TOKYO] ベルテッドタックワイドパンツ   : out_of_stock → in_stock
+- [ETRÉ TOKYO] ボンディングタックパンツ   : out_of_stock → in_stock
+- [ETRÉ TOKYO] ダブルフェイスデザインウエストワイドパンツ   : out_of_stock → in_stock
+- [ETRÉ TOKYO] SANTEセンタークリーステーパードパンツ   : out_of_stock → in_stock
+- [ETRÉ TOKYO] ダブルフェイスIラインスカート   : out_of_stock → in_stock
+- [ETRÉ TOKYO] ナローケーブルニットワンピース   : out_of_stock → in_stock
+- [ETRÉ TOKYO] コードヤーンケーブルニットワンピース   : out_of_stock → in_stock
+- [ETRÉ TOKYO] ソフトレザースクエアローファー   : out_of_stock → in_stock
+- [ETRÉ TOKYO] ブラスバックルレザーベルト   : out_of_stock → in_stock
+- [ETRÉ TOKYO] Vネックリブニットカーディガン   : out_of_stock → in_stock
+- [ETRÉ TOKYO] カットオフフリルネックシャツ   : out_of_stock → in_stock
+- [ETRÉ TOKYO] コットンシルクスキッパーシャツ   : out_of_stock → in_stock
+- [ETRÉ TOKYO] シアーコットンシャツ   : out_of_stock → in_stock
+- [ETRÉ TOKYO] エンブロイダリーイージーパンツ   : out_of_stock → in_stock
+- [ETRÉ TOKYO] リラクシーキュプラパンツ   : out_of_stock → in_stock
+- [ETRÉ TOKYO] ハイライズストレートデニム   : out_of_stock → in_stock
+- [ETRÉ TOKYO] Levi's SUPER BAGGY JORT   : out_of_stock → in_stock
+- [ETRÉ TOKYO] ダブルフェイスニットハーフパンツ   : out_of_stock → in_stock
+- [ETRÉ TOKYO] パイルギャザーミニスカート   : out_of_stock → in_stock
