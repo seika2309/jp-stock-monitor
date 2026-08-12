@@ -1,14 +1,20 @@
 # 日本购物网站库存报告
 
-更新时间：2026-08-11 22:41:23
+更新时间：2026-08-12 05:33:32
 
 ## 库存统计
 
-- ETRÉ TOKYO：商品 208 个，缺货规格 69 个
+- ETRÉ TOKYO：商品 208 个，缺货规格 75 个
 - LIFE's #203：商品 306 个，缺货规格 0 个
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] ドライタッチオーバーサイズニットシャツ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ドライタッチハーフスリーブプルオーバー   : in_stock → out_of_stock
+- [ETRÉ TOKYO] 2Wayヘムレースキュプラタンクトップ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ガーメントダイソフトシアーシャツ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ボリュームスリーブ2wayトップス   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ボリュームスリーブボートネックブラウス   : in_stock → out_of_stock
 - [ETRÉ TOKYO] ASAUCEMELERヤク×アルパカシャンブレーシャギーストール   : out_of_stock → in_stock
 - [ETRÉ TOKYO] YANUK×ETRE TOKYO Center Crease Straight Denim   : out_of_stock → in_stock
 - [ETRÉ TOKYO] YANUK×ETRE TOKYO Pegtop Denim   : out_of_stock → in_stock
@@ -53,9 +59,3 @@
 - [ETRÉ TOKYO] カットオフフリルネックシャツ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] コットンシルクスキッパーシャツ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] シアーコットンシャツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] エンブロイダリーイージーパンツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] リラクシーキュプラパンツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ハイライズストレートデニム   : out_of_stock → in_stock
-- [ETRÉ TOKYO] Levi's SUPER BAGGY JORT   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ダブルフェイスニットハーフパンツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] パイルギャザーミニスカート   : out_of_stock → in_stock
