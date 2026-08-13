@@ -1,14 +1,33 @@
 # 日本购物网站库存报告
 
-更新时间：2026-08-13 06:09:28
+更新时间：2026-08-13 10:06:19
 
 ## 库存统计
 
-- ETRÉ TOKYO：商品 210 个，缺货规格 25 个
+- ETRÉ TOKYO：商品 210 个，缺货规格 6 个
 - LIFE's #203：商品 306 个，缺货规格 0 个
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] スクエアパースキーホルダー   : out_of_stock → in_stock
+- [ETRÉ TOKYO] リングパーツマルチポーチ   : out_of_stock → in_stock
+- [ETRÉ TOKYO] サイドベンツテーラードジャケット   : out_of_stock → in_stock
+- [ETRÉ TOKYO] ナイロンエアリージャケット   : out_of_stock → in_stock
+- [ETRÉ TOKYO] ハイネックドルマンスリーブシャツブルゾン   : out_of_stock → in_stock
+- [ETRÉ TOKYO] キルトショートカーディガン   : out_of_stock → in_stock
+- [ETRÉ TOKYO] エンブロイダリーオールインワン   : out_of_stock → in_stock
+- [ETRÉ TOKYO] シアーレイヤードキャミワンピース   : out_of_stock → in_stock
+- [ETRÉ TOKYO] キャミソールニットオールインワン   : out_of_stock → in_stock
+- [ETRÉ TOKYO] ボンディングレザートート   : out_of_stock → in_stock
+- [ETRÉ TOKYO] ハイデンシティチノキャップ   : out_of_stock → in_stock
+- [ETRÉ TOKYO] タンドレザージップリップケース   : out_of_stock → in_stock
+- [ETRÉ TOKYO] タンドレザージップサングラスケース   : out_of_stock → in_stock
+- [ETRÉ TOKYO] パテッドソフトスニーカー   : out_of_stock → in_stock
+- [ETRÉ TOKYO] ナローショルダースウェードミニバッグ   : out_of_stock → in_stock
+- [ETRÉ TOKYO] Zoff｜ETRE TOKYO Wellington Metal Glasses   : out_of_stock → in_stock
+- [ETRÉ TOKYO] Zoff｜ETRE TOKYO Oval Sunglasses   : out_of_stock → in_stock
+- [ETRÉ TOKYO] スクエアバックルベルト   : out_of_stock → in_stock
+- [ETRÉ TOKYO] DEPENDREコンフォートソックス   : out_of_stock → in_stock
 - [ETRÉ TOKYO] three dots オーガニックコットンクルーネックTee   : out_of_stock → in_stock
 - [ETRÉ TOKYO] three dots サンデットジャージークルーネックTee   : out_of_stock → in_stock
 - [ETRÉ TOKYO] フロントスリットカットジャガードスカート   : out_of_stock → in_stock
@@ -40,22 +59,3 @@
 - [ETRÉ TOKYO] リネンヘルシーニットプルオーバー   : out_of_stock → in_stock
 - [ETRÉ TOKYO] エンブロイダリーローゲージニットプルオーバー   : out_of_stock → in_stock
 - [ETRÉ TOKYO] バトーネックカットプルオーバー   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ボートネックカフスロンTee   : out_of_stock → in_stock
-- [ETRÉ TOKYO] アウトステッチクルーネックロンTee   : out_of_stock → in_stock
-- [ETRÉ TOKYO] 3/4スリーブヘンリーネックプルオーバー   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ハーフスリーブハイネックシアープルオーバー   : out_of_stock → in_stock
-- [ETRÉ TOKYO] カットオフソフトスウェットシャツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] クロシェニットパンツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] エアリースウェットパンツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] クラッシーリラックスパンツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ドライタッチオーバーサイズニットシャツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ドライタッチハーフスリーブプルオーバー   : out_of_stock → in_stock
-- [ETRÉ TOKYO] 2Wayヘムレースキュプラタンクトップ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ボリュームスリーブ2wayトップス   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ボリュームスリーブボートネックブラウス   : out_of_stock → in_stock
-- [ETRÉ TOKYO] VネックミニマルTee   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ボールドショルダーUネックTee   : out_of_stock → in_stock
-- [ETRÉ TOKYO] three dotsオーガニックコットンリンガーTee   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ダブルクロスハイウエストタックパンツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] コットンドビーギャザーパンツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ガーメントダイソフトシアーパンツ   : out_of_stock → in_stock
