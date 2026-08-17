@@ -1,14 +1,20 @@
 # 日本购物网站库存报告
 
-更新时间：2026-08-17 08:22:55
+更新时间：2026-08-17 10:32:22
 
 ## 库存统计
 
-- ETRÉ TOKYO：商品 216 个，缺货规格 42 个
+- ETRÉ TOKYO：商品 216 个，缺货规格 48 个
 - LIFE's #203：商品 306 个，缺货规格 0 个
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] エンブロイダリーオールインワン   : in_stock → out_of_stock
+- [ETRÉ TOKYO] シアーレイヤードキャミワンピース   : in_stock → out_of_stock
+- [ETRÉ TOKYO] キャミソールニットオールインワン   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ボンディングレザートート   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ハイデンシティチノキャップ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] タンドレザージップリップケース   : in_stock → out_of_stock
 - [ETRÉ TOKYO] Zoff｜ETRE TOKYO Wellington Metal Glasses   : out_of_stock → in_stock
 - [ETRÉ TOKYO] ASAUCEMELERヤク×アルパカシャンブレーシャギーストール   : out_of_stock → in_stock
 - [ETRÉ TOKYO] YANUK×ETRE TOKYO Center Crease Straight Denim   : out_of_stock → in_stock
@@ -53,9 +59,3 @@
 - [ETRÉ TOKYO] キュプラネクタイオーバーサイズシャツ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] フロントファスナーウエストシェイプトップス   : out_of_stock → in_stock
 - [ETRÉ TOKYO] ウールカシミヤタートルネックニットプルオーバー   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ウールカシミヤスリーブレスニットプルオーバー   : out_of_stock → in_stock
-- [ETRÉ TOKYO] リバーシブルボックスニットプルオーバー   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ミドルゲージコンパクトニットカーディガン   : out_of_stock → in_stock
-- [ETRÉ TOKYO] フラッフィーVネックプルオーバー   : out_of_stock → in_stock
-- [ETRÉ TOKYO] コンパクトスウェットシャツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] オーガニックコットンUネックロンTee   : out_of_stock → in_stock
