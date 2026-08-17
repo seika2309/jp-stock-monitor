@@ -1,6 +1,6 @@
 # 日本购物网站库存报告
 
-更新时间：2026-08-17 18:18:58
+更新时间：2026-08-17 20:15:47
 
 ## 库存统计
 
@@ -9,6 +9,12 @@
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] フィブリルマーメイドスカート   : in_stock → unknown
+- [ETRÉ TOKYO] パターンニットカプリパンツ   : in_stock → unknown
+- [ETRÉ TOKYO] フロントデザインタックパンツ   : in_stock → unknown
+- [ETRÉ TOKYO] ETRバンスクリップ   : in_stock → unknown
+- [ETRÉ TOKYO] ETRE TOKYO グロウヘアオイル   : in_stock → unknown
+- [ETRÉ TOKYO] ETRE TOKYO グロウヘアワックス   : in_stock → unknown
 - [ETRÉ TOKYO] エンブロイダリーオールインワン   : in_stock → out_of_stock
 - [ETRÉ TOKYO] シアーレイヤードキャミワンピース   : in_stock → out_of_stock
 - [ETRÉ TOKYO] キャミソールニットオールインワン   : in_stock → out_of_stock
@@ -53,9 +59,3 @@
 - [ETRÉ TOKYO] SANTEドルマンスリーブジャガードコート   : out_of_stock → in_stock
 - [ETRÉ TOKYO] パディングワークブルゾン   : out_of_stock → in_stock
 - [ETRÉ TOKYO] ジャガードノーカラージャケット   : out_of_stock → in_stock
-- [ETRÉ TOKYO] SANTEコンストラクティブジャケット   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ファンシーヤーンクルーネックニットカーディガン   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ダブルフェイスＶネックニットカーディガン   : out_of_stock → in_stock
-- [ETRÉ TOKYO] キュプラネクタイオーバーサイズシャツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] フロントファスナーウエストシェイプトップス   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ウールカシミヤタートルネックニットプルオーバー   : out_of_stock → in_stock
