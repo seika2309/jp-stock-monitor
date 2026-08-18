@@ -1,6 +1,6 @@
 # 日本购物网站库存报告
 
-更新时间：2026-08-18 00:04:58
+更新时间：2026-08-18 03:28:53
 
 ## 库存统计
 
@@ -9,6 +9,7 @@
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] フィブリルマーメイドスカート   : unknown → in_stock
 - [ETRÉ TOKYO] フィブリルマーメイドスカート   : in_stock → unknown
 - [ETRÉ TOKYO] パターンニットカプリパンツ   : in_stock → unknown
 - [ETRÉ TOKYO] フロントデザインタックパンツ   : in_stock → unknown
@@ -58,4 +59,3 @@
 - [ETRÉ TOKYO] ステンカラーボンディングコート   : out_of_stock → in_stock
 - [ETRÉ TOKYO] SANTEドルマンスリーブジャガードコート   : out_of_stock → in_stock
 - [ETRÉ TOKYO] パディングワークブルゾン   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ジャガードノーカラージャケット   : out_of_stock → in_stock
