@@ -1,6 +1,6 @@
 # 日本购物网站库存报告
 
-更新时间：2026-08-19 21:20:17
+更新时间：2026-08-19 22:13:31
 
 ## 库存统计
 
@@ -9,6 +9,7 @@
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] キュプラジャージキャミソール   : preorder → in_stock
 - [ETRÉ TOKYO] キュプラジャージキャミソール   : in_stock → preorder
 - [ETRÉ TOKYO] DEPENDREブロードシャツ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] DEPENDREシアーロンTee   : out_of_stock → in_stock
@@ -58,4 +59,3 @@
 - [ETRÉ TOKYO] ハイデンシティチノキャップ   : in_stock → out_of_stock
 - [ETRÉ TOKYO] タンドレザージップリップケース   : in_stock → out_of_stock
 - [ETRÉ TOKYO] Zoff｜ETRE TOKYO Wellington Metal Glasses   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ASAUCEMELERヤク×アルパカシャンブレーシャギーストール   : out_of_stock → in_stock
