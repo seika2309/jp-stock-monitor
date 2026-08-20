@@ -1,6 +1,6 @@
 # 日本购物网站库存报告
 
-更新时间：2026-08-20 05:36:56
+更新时间：2026-08-20 08:19:31
 
 ## 库存统计
 
@@ -9,6 +9,7 @@
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] ダブルクロスハイウエストタックパンツ   : in_stock → unknown
 - [ETRÉ TOKYO] ASAUCEMELERヤク×アルパカシャンブレーシャギーストール   : in_stock → out_of_stock
 - [ETRÉ TOKYO] three dots オーガニックコットンクルーネックTee   : in_stock → out_of_stock
 - [ETRÉ TOKYO] three dots サンデットジャージークルーネックTee   : in_stock → out_of_stock
@@ -58,4 +59,3 @@
 - [ETRÉ TOKYO] リネンライクボールドショルダージレ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] フレンチスリーブローゲージニットプルオーバー   : out_of_stock → in_stock
 - [ETRÉ TOKYO] ハイツイストニットキャミソール   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ボートネックニットプルオーバー   : out_of_stock → in_stock
