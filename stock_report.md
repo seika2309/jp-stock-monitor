@@ -1,6 +1,6 @@
 # 日本购物网站库存报告
 
-更新时间：2026-08-20 12:14:58
+更新时间：2026-08-20 14:25:18
 
 ## 库存统计
 
@@ -9,6 +9,8 @@
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] ボートネックカフスロンTee   : preorder → in_stock
+- [ETRÉ TOKYO] ETRバンスクリップ   : unknown → in_stock
 - [ETRÉ TOKYO] フロントファスナーニットベアトップス   : in_stock → out_of_stock
 - [ETRÉ TOKYO] DEPENDREシアーロンTee   : out_of_stock → in_stock
 - [ETRÉ TOKYO] DEPENDRE Wストラップニットキャミ   : out_of_stock → in_stock
@@ -57,5 +59,3 @@
 - [ETRÉ TOKYO] パターンニットカプリパンツ   : unknown → in_stock
 - [ETRÉ TOKYO] フロントデザインタックパンツ   : unknown → in_stock
 - [ETRÉ TOKYO] ダブルクロスハイウエストタックパンツ   : in_stock → unknown
-- [ETRÉ TOKYO] ASAUCEMELERヤク×アルパカシャンブレーシャギーストール   : in_stock → out_of_stock
-- [ETRÉ TOKYO] three dots オーガニックコットンクルーネックTee   : in_stock → out_of_stock
