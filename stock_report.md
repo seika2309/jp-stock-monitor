@@ -1,14 +1,19 @@
 # 日本购物网站库存报告
 
-更新时间：2026-08-23 03:45:50
+更新时间：2026-08-23 05:33:40
 
 ## 库存统计
 
-- ETRÉ TOKYO：商品 287 个，缺货规格 118 个
+- ETRÉ TOKYO：商品 287 个，缺货规格 123 个
 - LIFE's #203：商品 315 个，缺货规格 0 个
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] ボリュームミディスカート   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ビーズモチーフIラインスカート   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ディストレストストレートデニム   : in_stock → out_of_stock
+- [ETRÉ TOKYO] レースコットンキャミワンピース   : in_stock → out_of_stock
+- [ETRÉ TOKYO] レースコンビオールインワン   : in_stock → out_of_stock
 - [ETRÉ TOKYO] 砂化粧釉マグカップ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] DEPENDRE Wストラップニットキャミ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] DEPENDRE カップインランダムテレコタンク   : out_of_stock → in_stock
@@ -54,8 +59,3 @@
 - [ETRÉ TOKYO] タンドレザージップサングラスケース   : out_of_stock → in_stock
 - [ETRÉ TOKYO] パイルギャザーミニスカート   : out_of_stock → in_stock
 - [ETRÉ TOKYO] サイドスリットパイルレギンス   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ドライタッチハーフスリーブプルオーバー   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ボリュームスリーブ2wayトップス   : out_of_stock → in_stock
-- [ETRÉ TOKYO] フレンチスリーブローゲージニットプルオーバー   : out_of_stock → in_stock
-- [ETRÉ TOKYO] エアリーコットンオーバーサイズTee   : out_of_stock → in_stock
-- [ETRÉ TOKYO] three dotsオーガニックコットンリンガーTee   : out_of_stock → in_stock
