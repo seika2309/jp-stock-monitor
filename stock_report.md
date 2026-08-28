@@ -1,6 +1,6 @@
 # 日本购物网站库存报告
 
-更新时间：2026-08-28 13:49:04
+更新时间：2026-08-28 23:32:17
 
 ## 库存统计
 
@@ -9,6 +9,12 @@
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] 砂化粧釉マグカップ   : unknown → in_stock
+- [ETRÉ TOKYO] ETRバンスクリップ   : unknown → in_stock
+- [ETRÉ TOKYO] スリークラインカフスロンTee   : unknown → in_stock
+- [ETRÉ TOKYO] デザインタックセンタープレスパンツ   : unknown → in_stock
+- [ETRÉ TOKYO] スウェードナロークロッグシューズ   : unknown → in_stock
+- [ETRÉ TOKYO] ノットディティールレザーミニバッグ   : unknown → in_stock
 - [ETRÉ TOKYO] ドライタッチハーフスリーブプルオーバー   : in_stock → out_of_stock
 - [ETRÉ TOKYO] ボリュームスリーブ2wayトップス   : in_stock → out_of_stock
 - [ETRÉ TOKYO] フレンチスリーブローゲージニットプルオーバー   : in_stock → out_of_stock
@@ -53,9 +59,3 @@
 - [ETRÉ TOKYO] three dots パウダリーコットンジョガーパンツ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] コットンリネンハーフパンツ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] three dots パウダリーコットンショートパンツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] サークルバックルベルト   : out_of_stock → in_stock
-- [ETRÉ TOKYO] Frank&Eileen×ETRE TOKYO SHIRLEY   : out_of_stock → in_stock
-- [ETRÉ TOKYO] カラーメローシアーTee   : out_of_stock → in_stock
-- [ETRÉ TOKYO] Levi's 1955 501RJEANS   : out_of_stock → in_stock
-- [ETRÉ TOKYO] SHISEI SQUARE BARRELE BOOTS   : out_of_stock → in_stock
-- [ETRÉ TOKYO] CUTIPOL MOONディナーナイフ   : out_of_stock → in_stock
