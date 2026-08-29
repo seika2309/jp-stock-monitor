@@ -1,14 +1,20 @@
 # 日本购物网站库存报告
 
-更新时间：2026-08-29 11:45:03
+更新时间：2026-08-29 16:12:03
 
 ## 库存统计
 
-- ETRÉ TOKYO：商品 292 个，缺货规格 125 个
+- ETRÉ TOKYO：商品 292 个，缺货规格 131 个
 - LIFE's #203：商品 322 个，缺货规格 0 个
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] パテッドソフトスニーカー   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ナローショルダースウェードミニバッグ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] Zoff｜ETRE TOKYO Wellington Metal Glasses   : in_stock → out_of_stock
+- [ETRÉ TOKYO] Zoff｜ETRE TOKYO Oval Sunglasses   : in_stock → out_of_stock
+- [ETRÉ TOKYO] スクエアバックルベルト   : in_stock → out_of_stock
+- [ETRÉ TOKYO] DEPENDREコンフォートソックス   : in_stock → out_of_stock
 - [ETRÉ TOKYO] 砂化粧釉マグカップ   : unknown → in_stock
 - [ETRÉ TOKYO] ETRバンスクリップ   : unknown → in_stock
 - [ETRÉ TOKYO] スリークラインカフスロンTee   : unknown → in_stock
@@ -53,9 +59,3 @@
 - [ETRÉ TOKYO] トリコットスイムキャップ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] ダブルブレストエアリージャケット   : out_of_stock → in_stock
 - [ETRÉ TOKYO] three dots パウダリーコットンジャケット   : out_of_stock → in_stock
-- [ETRÉ TOKYO] SANTEシルクVネックニットベスト   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ダブルクロススリーブレスカップインプルオーバー   : out_of_stock → in_stock
-- [ETRÉ TOKYO] three dots パウダリーコットンTee   : out_of_stock → in_stock
-- [ETRÉ TOKYO] three dots パウダリーコットンジョガーパンツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] コットンリネンハーフパンツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] three dots パウダリーコットンショートパンツ   : out_of_stock → in_stock
