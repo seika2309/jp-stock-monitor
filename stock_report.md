@@ -1,15 +1,16 @@
 # 日本购物网站库存报告
 
-更新时间：2026-08-30 18:33:24
+更新时间：2026-08-30 21:59:59
 
 ## 库存统计
 
-- ETRÉ TOKYO：商品 292 个，缺货规格 250 个
+- ETRÉ TOKYO：商品 292 个，缺货规格 251 个
 - LIFE's #203：商品 322 个，缺货规格 0 个
 
 ## 最近库存变化
 
-- [ETRÉ TOKYO]    : out_of_stock → unknown
+- [ETRÉ TOKYO] リネンライクエアリータックパンツ   : unknown → out_of_stock
+- [ETRÉ TOKYO] リネンライクエアリータックパンツ   : out_of_stock → unknown
 - [ETRÉ TOKYO] 砂化粧釉マグカップ   : in_stock → out_of_stock
 - [ETRÉ TOKYO] DEPENDREシアーロンTee   : in_stock → out_of_stock
 - [ETRÉ TOKYO] DEPENDRE Wストラップニットキャミ   : in_stock → out_of_stock
@@ -58,4 +59,3 @@
 - [ETRÉ TOKYO] Marmot×ETRE TOKYO PERTEXパディングショルダーバック   : in_stock → out_of_stock
 - [ETRÉ TOKYO] ヌバックレザースクエアバックルベルト   : in_stock → out_of_stock
 - [ETRÉ TOKYO] CUTIPOL MOONディナーナイフ   : in_stock → out_of_stock
-- [ETRÉ TOKYO] CUTIPOL MOONディナーフォーク   : in_stock → out_of_stock
