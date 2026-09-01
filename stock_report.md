@@ -1,6 +1,6 @@
 # 日本购物网站库存报告
 
-更新时间：2026-09-01 02:43:58
+更新时间：2026-09-01 08:21:30
 
 ## 库存统计
 
@@ -9,6 +9,10 @@
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] ETRE TOKYO グロウヘアオイル   : unknown → out_of_stock
+- [ETRÉ TOKYO] ETRE TOKYO グロウヘアワックス   : unknown → out_of_stock
+- [ETRÉ TOKYO] ボリュームスリーブバルーンシャツ   : out_of_stock → unknown
+- [ETRÉ TOKYO] ヘアリーミックスニットプルオーバー   : out_of_stock → in_stock
 - [ETRÉ TOKYO] 砂化粧釉マグカップ   : out_of_stock → unknown
 - [ETRÉ TOKYO] DEPENDRE Wストラップニットキャミ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] DEPENDRE カップインランダムテレコタンク   : out_of_stock → in_stock
@@ -55,7 +59,3 @@
 - [ETRÉ TOKYO] バックサテンリラクシーカーゴパンツ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] カーヴィータックデニムパンツ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] ウールカルゼタックショートパンツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] SANTEバックデザインドレス   : out_of_stock → in_stock
-- [ETRÉ TOKYO] スウェードフラットローファー   : out_of_stock → in_stock
-- [ETRÉ TOKYO] Marmot×ETRE TOKYO PERTEXパディングショルダーバック   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ヌバックレザースクエアバックルベルト   : out_of_stock → in_stock
