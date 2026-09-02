@@ -1,6 +1,6 @@
 # 日本购物网站库存报告
 
-更新时间：2026-09-02 15:04:00
+更新时间：2026-09-02 18:31:53
 
 ## 库存统计
 
@@ -9,6 +9,8 @@
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO]    : out_of_stock → unknown
+- [ETRÉ TOKYO] ドローストリングミニポーチ   : in_stock → out_of_stock
 - [ETRÉ TOKYO] 砂化粧釉マグカップ   : in_stock → unknown
 - [ETRÉ TOKYO] ボリュームスリーブバルーンシャツ   : in_stock → unknown
 - [ETRÉ TOKYO] フロントオープンロングニットキャミソール   : in_stock → unknown
@@ -57,5 +59,3 @@
 - [ETRÉ TOKYO] Levi's 1955 501RJEANS   : out_of_stock → in_stock
 - [ETRÉ TOKYO] SHISEI SQUARE BARRELE BOOTS   : out_of_stock → in_stock
 - [ETRÉ TOKYO] CUTIPOL MOONディナーナイフ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] CUTIPOL MOONディナーフォーク   : out_of_stock → in_stock
-- [ETRÉ TOKYO] CUTIPOL SUIテーブルスプーン   : out_of_stock → in_stock
