@@ -1,14 +1,25 @@
 # 日本购物网站库存报告
 
-更新时间：2026-09-03 15:43:30
+更新时间：2026-09-03 19:15:51
 
 ## 库存统计
 
-- ETRÉ TOKYO：商品 296 个，缺货规格 133 个
+- ETRÉ TOKYO：商品 296 个，缺货规格 144 个
 - LIFE's #203：商品 323 个，缺货规格 0 个
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] ダブルガーゼショートパンツ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] トリコットスイムキャップ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ダブルブレストエアリージャケット   : in_stock → out_of_stock
+- [ETRÉ TOKYO] three dots パウダリーコットンジャケット   : in_stock → out_of_stock
+- [ETRÉ TOKYO] SANTEシルクVネックニットベスト   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ダブルクロススリーブレスカップインプルオーバー   : in_stock → out_of_stock
+- [ETRÉ TOKYO] three dots パウダリーコットンTee   : in_stock → out_of_stock
+- [ETRÉ TOKYO] コットンリネンハーフパンツ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] Frank&Eileen×ETRE TOKYO SHIRLEY   : in_stock → out_of_stock
+- [ETRÉ TOKYO] カラーメローシアーTee   : in_stock → out_of_stock
+- [ETRÉ TOKYO] Levi's 1955 501RJEANS   : in_stock → out_of_stock
 - [ETRÉ TOKYO] タンドレザージップリップケース   : in_stock → out_of_stock
 - [ETRÉ TOKYO] タンドレザージップサングラスケース   : in_stock → out_of_stock
 - [ETRÉ TOKYO] パイルギャザーミニスカート   : in_stock → out_of_stock
@@ -48,14 +59,3 @@
 - [ETRÉ TOKYO] ボリュームスリーブバルーンシャツ   : out_of_stock → unknown
 - [ETRÉ TOKYO] ヘアリーミックスニットプルオーバー   : out_of_stock → in_stock
 - [ETRÉ TOKYO] 砂化粧釉マグカップ   : out_of_stock → unknown
-- [ETRÉ TOKYO] DEPENDRE Wストラップニットキャミ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] DEPENDRE カップインランダムテレコタンク   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ハイゲージバイカーニットパンツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ドロストヘムコットンパンツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] Levi's LOW LOOSE   : out_of_stock → in_stock
-- [ETRÉ TOKYO] havaianas×ETRE TOKYO ETRピンビーチサンダル   : out_of_stock → in_stock
-- [ETRÉ TOKYO] タンドレザーサングラスケース   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ダブルガーゼショートパンツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] トリコットスイムキャップ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ダブルブレストエアリージャケット   : out_of_stock → in_stock
-- [ETRÉ TOKYO] three dots パウダリーコットンジャケット   : out_of_stock → in_stock
