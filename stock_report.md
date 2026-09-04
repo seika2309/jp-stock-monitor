@@ -1,14 +1,23 @@
 # 日本购物网站库存报告
 
-更新时间：2026-09-04 06:59:06
+更新时间：2026-09-04 12:08:30
 
 ## 库存统计
 
-- ETRÉ TOKYO：商品 296 个，缺货规格 144 个
+- ETRÉ TOKYO：商品 303 个，缺货规格 136 个
 - LIFE's #203：商品 325 个，缺货规格 0 个
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] コットンリネンハーフパンツ   : out_of_stock → in_stock
+- [ETRÉ TOKYO] カラーメローシアーTee   : out_of_stock → in_stock
+- [ETRÉ TOKYO] Levi's 1955 501RJEANS   : out_of_stock → in_stock
+- [ETRÉ TOKYO] AMPHI×ETRE TOKYOフィットカップインバンドゥキャミソール   : out_of_stock → in_stock
+- [ETRÉ TOKYO] AMPHI×ETRE TOKYOフィットハイウエストレギンス   : out_of_stock → in_stock
+- [ETRÉ TOKYO] AMPHI×ETRE TOKYOフィットカップインキャミソール   : out_of_stock → in_stock
+- [ETRÉ TOKYO] AMPHI×ETRE TOKYOフィットハーフレギンス   : out_of_stock → in_stock
+- [ETRÉ TOKYO] ドライタッチオーバーサイズニットシャツ   : out_of_stock → in_stock
+- [ETRÉ TOKYO] カットオフユージュアリーシャツ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] ダブルガーゼショートパンツ   : in_stock → out_of_stock
 - [ETRÉ TOKYO] トリコットスイムキャップ   : in_stock → out_of_stock
 - [ETRÉ TOKYO] ダブルブレストエアリージャケット   : in_stock → out_of_stock
@@ -50,12 +59,3 @@
 - [ETRÉ TOKYO] スリークラインカフスロンTee   : unknown → in_stock
 - [ETRÉ TOKYO] アウトタックセミワイドパンツ   : unknown → in_stock
 - [ETRÉ TOKYO] デザインタックセンタープレスパンツ   : unknown → in_stock
-- [ETRÉ TOKYO] Levi's 501R'90s   : unknown → in_stock
-- [ETRÉ TOKYO] Levi's CINCH WIDE LEG   : unknown → in_stock
-- [ETRÉ TOKYO] スウェードナロークロッグシューズ   : unknown → in_stock
-- [ETRÉ TOKYO] ノットディティールレザーミニバッグ   : unknown → in_stock
-- [ETRÉ TOKYO] ETRE TOKYO グロウヘアオイル   : unknown → out_of_stock
-- [ETRÉ TOKYO] ETRE TOKYO グロウヘアワックス   : unknown → out_of_stock
-- [ETRÉ TOKYO] ボリュームスリーブバルーンシャツ   : out_of_stock → unknown
-- [ETRÉ TOKYO] ヘアリーミックスニットプルオーバー   : out_of_stock → in_stock
-- [ETRÉ TOKYO] 砂化粧釉マグカップ   : out_of_stock → unknown
