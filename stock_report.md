@@ -1,6 +1,6 @@
 # 日本购物网站库存报告
 
-更新时间：2026-09-05 16:39:14
+更新时间：2026-09-05 18:58:12
 
 ## 库存统计
 
@@ -9,6 +9,18 @@
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] 砂化粧釉マグカップ   : unknown → in_stock
+- [ETRÉ TOKYO] レースカフベルベットプルオーバー   : unknown → in_stock
+- [ETRÉ TOKYO] ボリュームスリーブバルーンシャツ   : unknown → in_stock
+- [ETRÉ TOKYO] レースカフコーデュロイプルオーバー   : unknown → in_stock
+- [ETRÉ TOKYO] スリークラインカフスロンTee   : unknown → in_stock
+- [ETRÉ TOKYO] スリークラインベルベットパンツ   : unknown → in_stock
+- [ETRÉ TOKYO] デザインタックセンタープレスパンツ   : unknown → in_stock
+- [ETRÉ TOKYO] スリークラインコーデュロイパンツ   : unknown → in_stock
+- [ETRÉ TOKYO] スカラレースアイラインマキシスカート   : unknown → in_stock
+- [ETRÉ TOKYO] スウェードナロークロッグシューズ   : unknown → in_stock
+- [ETRÉ TOKYO] ノットディティールレザーミニバッグ   : unknown → in_stock
+- [ETRÉ TOKYO] ヘッドアクセセット   : unknown → in_stock
 - [ETRÉ TOKYO] コットンリネンハーフパンツ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] カラーメローシアーTee   : out_of_stock → in_stock
 - [ETRÉ TOKYO] Levi's 1955 501RJEANS   : out_of_stock → in_stock
@@ -47,15 +59,3 @@
 - [ETRÉ TOKYO] フロントオープンロングニットキャミソール   : in_stock → unknown
 - [ETRÉ TOKYO] スリークラインカフスロンTee   : in_stock → unknown
 - [ETRÉ TOKYO] アウトタックセミワイドパンツ   : in_stock → unknown
-- [ETRÉ TOKYO] デザインタックセンタープレスパンツ   : in_stock → unknown
-- [ETRÉ TOKYO] Levi's 501R'90s   : in_stock → unknown
-- [ETRÉ TOKYO] Levi's CINCH WIDE LEG   : in_stock → unknown
-- [ETRÉ TOKYO] スウェードナロークロッグシューズ   : in_stock → unknown
-- [ETRÉ TOKYO] ノットディティールレザーミニバッグ   : in_stock → unknown
-- [ETRÉ TOKYO] 砂化粧釉マグカップ   : unknown → in_stock
-- [ETRÉ TOKYO] ETRバンスクリップ   : unknown → in_stock
-- [ETRÉ TOKYO] ボリュームスリーブバルーンシャツ   : unknown → in_stock
-- [ETRÉ TOKYO] フロントオープンロングニットキャミソール   : unknown → in_stock
-- [ETRÉ TOKYO] スリークラインカフスロンTee   : unknown → in_stock
-- [ETRÉ TOKYO] アウトタックセミワイドパンツ   : unknown → in_stock
-- [ETRÉ TOKYO] デザインタックセンタープレスパンツ   : unknown → in_stock
