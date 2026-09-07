@@ -1,14 +1,21 @@
 # 日本购物网站库存报告
 
-更新时间：2026-09-07 16:27:53
+更新时间：2026-09-07 20:33:24
 
 ## 库存统计
 
-- ETRÉ TOKYO：商品 308 个，缺货规格 130 个
+- ETRÉ TOKYO：商品 308 个，缺货规格 136 个
 - LIFE's #203：商品 325 个，缺货规格 0 个
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] キュプラジャージオーバーサイズTee   : in_stock → preorder
+- [ETRÉ TOKYO] ショルダータックスリーブレスプルオーバー   : in_stock → out_of_stock
+- [ETRÉ TOKYO] 2パックアイレットTee   : in_stock → out_of_stock
+- [ETRÉ TOKYO] アイスパックオーバーサイズTee   : in_stock → out_of_stock
+- [ETRÉ TOKYO] リングドットフライスタンクトップ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] コンパクトフライスTee   : in_stock → out_of_stock
+- [ETRÉ TOKYO] アイレットクル－ネックロンTee   : in_stock → out_of_stock
 - [ETRÉ TOKYO] ダブルガーゼショートパンツ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] トリコットスイムキャップ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] ダブルブレストエアリージャケット   : out_of_stock → in_stock
@@ -52,10 +59,3 @@
 - [ETRÉ TOKYO] トリコットスイムキャップ   : in_stock → out_of_stock
 - [ETRÉ TOKYO] ダブルブレストエアリージャケット   : in_stock → out_of_stock
 - [ETRÉ TOKYO] three dots パウダリーコットンジャケット   : in_stock → out_of_stock
-- [ETRÉ TOKYO] SANTEシルクVネックニットベスト   : in_stock → out_of_stock
-- [ETRÉ TOKYO] ダブルクロススリーブレスカップインプルオーバー   : in_stock → out_of_stock
-- [ETRÉ TOKYO] three dots パウダリーコットンTee   : in_stock → out_of_stock
-- [ETRÉ TOKYO] コットンリネンハーフパンツ   : in_stock → out_of_stock
-- [ETRÉ TOKYO] Frank&Eileen×ETRE TOKYO SHIRLEY   : in_stock → out_of_stock
-- [ETRÉ TOKYO] カラーメローシアーTee   : in_stock → out_of_stock
-- [ETRÉ TOKYO] Levi's 1955 501RJEANS   : in_stock → out_of_stock
