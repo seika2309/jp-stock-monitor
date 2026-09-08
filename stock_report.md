@@ -1,14 +1,20 @@
 # 日本购物网站库存报告
 
-更新时间：2026-09-08 02:06:53
+更新时间：2026-09-08 06:57:00
 
 ## 库存统计
 
-- ETRÉ TOKYO：商品 308 个，缺货规格 136 个
+- ETRÉ TOKYO：商品 308 个，缺货规格 142 个
 - LIFE's #203：商品 325 个，缺货规格 0 个
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] コットンドビーギャザーパンツ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ガーメントダイソフトシアーパンツ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] リネンライクエアリータックパンツ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] タックイージーパンツ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] エアリーコットンガーメントダイボリュームスカート   : in_stock → out_of_stock
+- [ETRÉ TOKYO] タンクトップコンビロングワンピース   : in_stock → out_of_stock
 - [ETRÉ TOKYO] キュプラジャージオーバーサイズTee   : in_stock → preorder
 - [ETRÉ TOKYO] ショルダータックスリーブレスプルオーバー   : in_stock → out_of_stock
 - [ETRÉ TOKYO] 2パックアイレットTee   : in_stock → out_of_stock
@@ -53,9 +59,3 @@
 - [ETRÉ TOKYO] AMPHI×ETRE TOKYOフィットハイウエストレギンス   : out_of_stock → in_stock
 - [ETRÉ TOKYO] AMPHI×ETRE TOKYOフィットカップインキャミソール   : out_of_stock → in_stock
 - [ETRÉ TOKYO] AMPHI×ETRE TOKYOフィットハーフレギンス   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ドライタッチオーバーサイズニットシャツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] カットオフユージュアリーシャツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ダブルガーゼショートパンツ   : in_stock → out_of_stock
-- [ETRÉ TOKYO] トリコットスイムキャップ   : in_stock → out_of_stock
-- [ETRÉ TOKYO] ダブルブレストエアリージャケット   : in_stock → out_of_stock
-- [ETRÉ TOKYO] three dots パウダリーコットンジャケット   : in_stock → out_of_stock
