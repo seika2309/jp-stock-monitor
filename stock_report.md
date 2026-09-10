@@ -1,6 +1,6 @@
 # 日本购物网站库存报告
 
-更新时间：2026-09-10 07:00:48
+更新时间：2026-09-10 12:12:40
 
 ## 库存统计
 
@@ -9,6 +9,12 @@
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] ピンタックシャツ   : unknown → in_stock
+- [ETRÉ TOKYO] コンフィーニットTee   : unknown → in_stock
+- [ETRÉ TOKYO] オーバーサイズパイルTee   : unknown → in_stock
+- [ETRÉ TOKYO] パイルピンタックワイドパンツ   : unknown → in_stock
+- [ETRÉ TOKYO] デザインタックセンタープレスパンツ   : unknown → in_stock
+- [ETRÉ TOKYO] SHISEI SKINY BOOTS   : unknown → in_stock
 - [ETRÉ TOKYO] 砂化粧釉マグカップ   : in_stock → unknown
 - [ETRÉ TOKYO] ピンタックシャツ   : in_stock → unknown
 - [ETRÉ TOKYO] レースカフベルベットプルオーバー   : in_stock → unknown
@@ -53,9 +59,3 @@
 - [ETRÉ TOKYO] タンドレザージップリップケース   : out_of_stock → in_stock
 - [ETRÉ TOKYO] タンドレザージップサングラスケース   : out_of_stock → in_stock
 - [ETRÉ TOKYO] パイルギャザーミニスカート   : out_of_stock → in_stock
-- [ETRÉ TOKYO] サイドスリットパイルレギンス   : out_of_stock → in_stock
-- [ETRÉ TOKYO] サッカーストレッチフードブルゾン   : out_of_stock → in_stock
-- [ETRÉ TOKYO] AMPHI×ETRE TOKYOフィットカップインバンドゥキャミソール   : in_stock → out_of_stock
-- [ETRÉ TOKYO] AMPHI×ETRE TOKYOフィットハイウエストレギンス   : in_stock → out_of_stock
-- [ETRÉ TOKYO] AMPHI×ETRE TOKYOフィットカップインキャミソール   : in_stock → out_of_stock
-- [ETRÉ TOKYO] AMPHI×ETRE TOKYOフィットハーフレギンス   : in_stock → out_of_stock
