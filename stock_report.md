@@ -1,14 +1,21 @@
 # 日本购物网站库存报告
 
-更新时间：2026-09-12 14:48:43
+更新时间：2026-09-12 17:47:09
 
 ## 库存统计
 
-- ETRÉ TOKYO：商品 308 个，缺货规格 99 个
+- ETRÉ TOKYO：商品 308 个，缺货规格 105 个
 - LIFE's #203：商品 348 个，缺货规格 0 个
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] DEPENDREコンフォートソックス   : in_stock → unknown
+- [ETRÉ TOKYO] ドローストリングミニポーチ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ショルダースクエアポーチ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] レザーグラスコード   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ETRE TOKYO グロウヘアオイル   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ETRE TOKYO グロウヘアワックス   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ウォーターリペレントキルティングライナーミディコート   : in_stock → out_of_stock
 - [ETRÉ TOKYO] ピンタックシャツ   : unknown → in_stock
 - [ETRÉ TOKYO] コンフィーニットTee   : unknown → in_stock
 - [ETRÉ TOKYO] オーバーサイズパイルTee   : unknown → in_stock
@@ -52,10 +59,3 @@
 - [ETRÉ TOKYO] Frank&Eileen×ETRE TOKYO SHIRLEY   : out_of_stock → in_stock
 - [ETRÉ TOKYO] サイドピンタックラインリラクシーパンツ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] ベルテッドタックワイドパンツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ダブルフェイスIラインスカート   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ナローケーブルニットワンピース   : out_of_stock → in_stock
-- [ETRÉ TOKYO] サイドベンツテーラードジャケット   : out_of_stock → in_stock
-- [ETRÉ TOKYO] Vネックリブニットカーディガン   : out_of_stock → in_stock
-- [ETRÉ TOKYO] タンドレザージップリップケース   : out_of_stock → in_stock
-- [ETRÉ TOKYO] タンドレザージップサングラスケース   : out_of_stock → in_stock
-- [ETRÉ TOKYO] パイルギャザーミニスカート   : out_of_stock → in_stock
