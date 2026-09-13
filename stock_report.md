@@ -1,14 +1,20 @@
 # 日本购物网站库存报告
 
-更新时间：2026-09-13 07:12:45
+更新时间：2026-09-13 12:42:52
 
 ## 库存统计
 
-- ETRÉ TOKYO：商品 308 个，缺货规格 99 个
+- ETRÉ TOKYO：商品 308 个，缺货规格 105 个
 - LIFE's #203：商品 348 个，缺货规格 0 个
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] サイロスパンタックワイドパンツ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] チェックツィードセンタークリースパンツ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ボリュームバルーンロングスカート   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ウールカシミヤニットヘアバンド   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ファブリックミストセット   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ファブリックミスト   : in_stock → out_of_stock
 - [ETRÉ TOKYO] 砂化粧釉マグカップ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] DEPENDRE Wストラップニットキャミ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] DEPENDRE カップインランダムテレコタンク   : out_of_stock → in_stock
@@ -53,9 +59,3 @@
 - [ETRÉ TOKYO] ウールカルゼタックショートパンツ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] SANTEバックデザインドレス   : out_of_stock → in_stock
 - [ETRÉ TOKYO] スウェードフラットローファー   : out_of_stock → in_stock
-- [ETRÉ TOKYO] Marmot×ETRE TOKYO PERTEXパディングショルダーバック   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ヌバックレザースクエアバックルベルト   : out_of_stock → in_stock
-- [ETRÉ TOKYO] CUTIPOL MOONディナーナイフ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] CUTIPOL MOONディナーフォーク   : out_of_stock → in_stock
-- [ETRÉ TOKYO] CUTIPOL SUIテーブルスプーン   : out_of_stock → in_stock
-- [ETRÉ TOKYO] パディングワークブルゾン   : out_of_stock → in_stock
