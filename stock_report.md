@@ -1,14 +1,20 @@
 # 日本购物网站库存报告
 
-更新时间：2026-09-14 02:24:46
+更新时间：2026-09-14 08:27:20
 
 ## 库存统计
 
-- ETRÉ TOKYO：商品 308 个，缺货规格 105 个
+- ETRÉ TOKYO：商品 313 个，缺货规格 99 个
 - LIFE's #203：商品 348 个，缺货规格 0 个
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] ヘムギャザーオールインワン   : out_of_stock → in_stock
+- [ETRÉ TOKYO] フェードパイルショートパンツ   : out_of_stock → in_stock
+- [ETRÉ TOKYO] AMPHI×ETRE TOKYOフィットカップインバンドゥキャミソール   : out_of_stock → in_stock
+- [ETRÉ TOKYO] AMPHI×ETRE TOKYOフィットハイウエストレギンス   : out_of_stock → in_stock
+- [ETRÉ TOKYO] AMPHI×ETRE TOKYOフィットカップインキャミソール   : out_of_stock → in_stock
+- [ETRÉ TOKYO] AMPHI×ETRE TOKYOフィットハーフレギンス   : out_of_stock → in_stock
 - [ETRÉ TOKYO] ドライタッチハーフスリーブプルオーバー   : out_of_stock → in_stock
 - [ETRÉ TOKYO] ドライタッチハーフスリーブプルオーバー   : in_stock → out_of_stock
 - [ETRÉ TOKYO] 砂化粧釉マグカップ   : in_stock → unknown
@@ -53,9 +59,3 @@
 - [ETRÉ TOKYO] コンシャススリーブトレンチコート   : out_of_stock → in_stock
 - [ETRÉ TOKYO] 2wayハンドニットカーディガン   : out_of_stock → in_stock
 - [ETRÉ TOKYO] プレーンステッチＶネックニットカーディガン   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ダブルフェイスフロントファスナーニットプルオーバー   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ハーフジップハイゲージニットプルオーバー   : out_of_stock → in_stock
-- [ETRÉ TOKYO] SANTEヘアリーシルクＶネックニットプルオーバー   : out_of_stock → in_stock
-- [ETRÉ TOKYO] サイロスパンタックワイドパンツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] チェックツィードセンタークリースパンツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ボリュームバルーンロングスカート   : out_of_stock → in_stock
