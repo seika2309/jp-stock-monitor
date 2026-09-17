@@ -1,14 +1,21 @@
 # 日本购物网站库存报告
 
-更新时间：2026-09-17 14:07:56
+更新时间：2026-09-17 18:03:34
 
 ## 库存统计
 
-- ETRÉ TOKYO：商品 313 个，缺货规格 101 个
+- ETRÉ TOKYO：商品 313 个，缺货规格 107 个
 - LIFE's #203：商品 348 个，缺货规格 0 个
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] ウールカシミヤニットヘアバンド   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ファブリックミストセット   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ファブリックミスト   : in_stock → out_of_stock
+- [ETRÉ TOKYO] カゼンティーノヴァリアブルコート   : in_stock → out_of_stock
+- [ETRÉ TOKYO] SANTEウールカシミヤタートルニットプルオーバー   : in_stock → out_of_stock
+- [ETRÉ TOKYO] バンピーストールニットプルオーバー   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ノットディティールレザーミニバッグ   : unknown → in_stock
 - [ETRÉ TOKYO] ボリュームスリーブバルーンシャツ   : unknown → in_stock
 - [ETRÉ TOKYO] オーバーサイズデニムシャツ   : unknown → in_stock
 - [ETRÉ TOKYO] メッセージエンブロイダリーロンTee   : unknown → in_stock
@@ -52,10 +59,3 @@
 - [ETRÉ TOKYO] バックサテンリラクシーカーゴパンツ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] カーヴィータックデニムパンツ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] ウールカルゼタックショートパンツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] SANTEバックデザインドレス   : out_of_stock → in_stock
-- [ETRÉ TOKYO] スウェードフラットローファー   : out_of_stock → in_stock
-- [ETRÉ TOKYO] Marmot×ETRE TOKYO PERTEXパディングショルダーバック   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ヌバックレザースクエアバックルベルト   : out_of_stock → in_stock
-- [ETRÉ TOKYO] CUTIPOL MOONディナーナイフ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] CUTIPOL MOONディナーフォーク   : out_of_stock → in_stock
-- [ETRÉ TOKYO] CUTIPOL SUIテーブルスプーン   : out_of_stock → in_stock
