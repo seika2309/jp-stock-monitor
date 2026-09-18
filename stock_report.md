@@ -1,14 +1,25 @@
 # 日本购物网站库存报告
 
-更新时间：2026-09-18 02:14:20
+更新时间：2026-09-18 07:21:33
 
 ## 库存统计
 
 - ETRÉ TOKYO：商品 313 个，缺货规格 107 个
-- LIFE's #203：商品 348 个，缺货规格 0 个
+- LIFE's #203：商品 351 个，缺货规格 0 个
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] 砂化粧釉マグカップ   : unknown → in_stock
+- [ETRÉ TOKYO] DEPENDREコンフォートソックス   : unknown → in_stock
+- [ETRÉ TOKYO] レースカフベルベットプルオーバー   : unknown → in_stock
+- [ETRÉ TOKYO] レースカフコーデュロイプルオーバー   : unknown → in_stock
+- [ETRÉ TOKYO] スリークラインカフスロンTee   : unknown → in_stock
+- [ETRÉ TOKYO] スリークラインベルベットパンツ   : unknown → in_stock
+- [ETRÉ TOKYO] センターピンタックトレンカ   : unknown → in_stock
+- [ETRÉ TOKYO] スリークラインコーデュロイパンツ   : unknown → in_stock
+- [ETRÉ TOKYO] スカラレースアイラインマキシスカート   : unknown → in_stock
+- [ETRÉ TOKYO] スウェードナロークロッグシューズ   : unknown → in_stock
+- [ETRÉ TOKYO] ヘッドアクセセット   : unknown → in_stock
 - [ETRÉ TOKYO] ウールカシミヤニットヘアバンド   : in_stock → out_of_stock
 - [ETRÉ TOKYO] ファブリックミストセット   : in_stock → out_of_stock
 - [ETRÉ TOKYO] ファブリックミスト   : in_stock → out_of_stock
@@ -48,14 +59,3 @@
 - [ETRÉ TOKYO] サイロスパンタックワイドパンツ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] チェックツィードセンタークリースパンツ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] ボリュームバルーンロングスカート   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ウールカシミヤニットヘアバンド   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ファブリックミストセット   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ファブリックミスト   : out_of_stock → in_stock
-- [ETRÉ TOKYO] カゼンティーノヴァリアブルコート   : out_of_stock → in_stock
-- [ETRÉ TOKYO] SANTEウールカシミヤタートルニットプルオーバー   : out_of_stock → in_stock
-- [ETRÉ TOKYO] バンピーストールニットプルオーバー   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ミドルゲージＶネックニットカーディガン   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ボアフリースブルゾン   : out_of_stock → in_stock
-- [ETRÉ TOKYO] バックサテンリラクシーカーゴパンツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] カーヴィータックデニムパンツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ウールカルゼタックショートパンツ   : out_of_stock → in_stock
