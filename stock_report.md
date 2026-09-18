@@ -1,14 +1,24 @@
 # 日本购物网站库存报告
 
-更新时间：2026-09-18 07:21:33
+更新时间：2026-09-18 12:40:26
 
 ## 库存统计
 
-- ETRÉ TOKYO：商品 313 个，缺货规格 107 个
+- ETRÉ TOKYO：商品 319 个，缺货规格 118 个
 - LIFE's #203：商品 351 个，缺货规格 0 个
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] ミドルゲージＶネックニットカーディガン   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ボアフリースブルゾン   : in_stock → out_of_stock
+- [ETRÉ TOKYO] タンドレザーバックルレスベルト   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ETRE TOKYO Waterproof spray   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ETRE TOKYO タンブラーボトル   : in_stock → out_of_stock
+- [ETRÉ TOKYO] 2パックアイレットカーディガン   : in_stock → out_of_stock
+- [ETRÉ TOKYO] フェイクスウェード2wayキャミチュニック   : in_stock → out_of_stock
+- [ETRÉ TOKYO] オープンネックハーフスリーブシャツ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ウエストシェイプテーラードジャケット   : in_stock → out_of_stock
+- [ETRÉ TOKYO] コーティングサテンリバーシブルブルゾン   : in_stock → out_of_stock
 - [ETRÉ TOKYO] 砂化粧釉マグカップ   : unknown → in_stock
 - [ETRÉ TOKYO] DEPENDREコンフォートソックス   : unknown → in_stock
 - [ETRÉ TOKYO] レースカフベルベットプルオーバー   : unknown → in_stock
@@ -49,13 +59,3 @@
 - [ETRÉ TOKYO] SHISEI SQUARE BARRELE BOOTS   : out_of_stock → in_stock
 - [ETRÉ TOKYO] CUTIPOL MOONディナーナイフ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] CUTIPOL MOONディナーフォーク   : out_of_stock → in_stock
-- [ETRÉ TOKYO] CUTIPOL SUIテーブルスプーン   : out_of_stock → in_stock
-- [ETRÉ TOKYO] フードストールロングトレンチコート   : out_of_stock → in_stock
-- [ETRÉ TOKYO] コンシャススリーブトレンチコート   : out_of_stock → in_stock
-- [ETRÉ TOKYO] 2wayハンドニットカーディガン   : out_of_stock → in_stock
-- [ETRÉ TOKYO] プレーンステッチＶネックニットカーディガン   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ダブルフェイスフロントファスナーニットプルオーバー   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ハーフジップハイゲージニットプルオーバー   : out_of_stock → in_stock
-- [ETRÉ TOKYO] サイロスパンタックワイドパンツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] チェックツィードセンタークリースパンツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ボリュームバルーンロングスカート   : out_of_stock → in_stock
