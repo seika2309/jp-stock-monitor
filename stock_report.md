@@ -1,14 +1,20 @@
 # 日本购物网站库存报告
 
-更新时间：2026-09-19 23:58:40
+更新时间：2026-09-20 02:25:50
 
 ## 库存统计
 
-- ETRÉ TOKYO：商品 319 个，缺货规格 124 个
+- ETRÉ TOKYO：商品 319 个，缺货规格 130 个
 - LIFE's #203：商品 351 个，缺货规格 0 个
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] コンパクトフライスTee   : in_stock → out_of_stock
+- [ETRÉ TOKYO] アイレットクル－ネックロンTee   : in_stock → out_of_stock
+- [ETRÉ TOKYO] クレープダブルガーゼリラクシーパンツ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] センタークリースクリーンパンツ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] トリアセテートオックスリラクシーパンツ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] パターンニットカプリパンツ   : in_stock → out_of_stock
 - [ETRÉ TOKYO] 砂化粧釉マグカップ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] DEPENDRE Wストラップニットキャミ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] DEPENDRE カップインランダムテレコタンク   : out_of_stock → in_stock
@@ -53,9 +59,3 @@
 - [ETRÉ TOKYO] ダブルフェイスIラインスカート   : out_of_stock → in_stock
 - [ETRÉ TOKYO] ナローケーブルニットワンピース   : out_of_stock → in_stock
 - [ETRÉ TOKYO] サイドベンツテーラードジャケット   : out_of_stock → in_stock
-- [ETRÉ TOKYO] Vネックリブニットカーディガン   : out_of_stock → in_stock
-- [ETRÉ TOKYO] カットオフフリルネックシャツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] オフショルダーボリュームスリーブブラウス   : out_of_stock → in_stock
-- [ETRÉ TOKYO] エンブロイダリーローゲージニットプルオーバー   : out_of_stock → in_stock
-- [ETRÉ TOKYO] タンドレザージップリップケース   : out_of_stock → in_stock
-- [ETRÉ TOKYO] タンドレザージップサングラスケース   : out_of_stock → in_stock
