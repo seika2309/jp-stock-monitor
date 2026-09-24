@@ -1,14 +1,20 @@
 # 日本购物网站库存报告
 
-更新时间：2026-09-24 13:15:54
+更新时间：2026-09-24 18:00:40
 
 ## 库存统计
 
-- ETRÉ TOKYO：商品 326 个，缺货规格 111 个
+- ETRÉ TOKYO：商品 326 个，缺货规格 117 个
 - LIFE's #203：商品 351 个，缺货规格 0 个
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] フレンチスリーブローゲージニットプルオーバー   : in_stock → out_of_stock
+- [ETRÉ TOKYO] エアリーコットンオーバーサイズTee   : in_stock → out_of_stock
+- [ETRÉ TOKYO] three dotsオーガニックコットンリンガーTee   : in_stock → out_of_stock
+- [ETRÉ TOKYO] コットンドビーギャザーパンツ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ガーメントダイソフトシアーパンツ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] リネンライクエアリータックパンツ   : in_stock → out_of_stock
 - [ETRÉ TOKYO] 砂化粧釉マグカップ   : out_of_stock → unknown
 - [ETRÉ TOKYO] DEPENDRE Wストラップニットキャミ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] DEPENDRE カップインランダムテレコタンク   : out_of_stock → in_stock
@@ -53,9 +59,3 @@
 - [ETRÉ TOKYO] SANTEコンストラクティブジャケット   : out_of_stock → in_stock
 - [ETRÉ TOKYO] ファンシーヤーンクルーネックニットカーディガン   : out_of_stock → in_stock
 - [ETRÉ TOKYO] キュプラネクタイオーバーサイズシャツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] リバーシブルボックスニットプルオーバー   : out_of_stock → in_stock
-- [ETRÉ TOKYO] サイドピンタックラインリラクシーパンツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ベルテッドタックワイドパンツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ダブルフェイスIラインスカート   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ナローケーブルニットワンピース   : out_of_stock → in_stock
-- [ETRÉ TOKYO] サイドベンツテーラードジャケット   : out_of_stock → in_stock
