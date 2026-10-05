@@ -1,14 +1,23 @@
 # 日本购物网站库存报告
 
-更新时间：2026-10-05 01:39:04
+更新时间：2026-10-05 08:11:26
 
 ## 库存统计
 
-- ETRÉ TOKYO：商品 334 个，缺货规格 140 个
+- ETRÉ TOKYO：商品 341 个，缺货规格 149 个
 - LIFE's #203：商品 433 个，缺货规格 0 个
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] DEPENDRE カップインランダムテレコタンク   : in_stock → out_of_stock
+- [ETRÉ TOKYO] パディングワークブルゾン   : in_stock → out_of_stock
+- [ETRÉ TOKYO] SANTEコンストラクティブジャケット   : in_stock → out_of_stock
+- [ETRÉ TOKYO] カットオフフリルネックシャツ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] オフショルダーボリュームスリーブブラウス   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ハーフスリーブハイネックシアープルオーバー   : in_stock → out_of_stock
+- [ETRÉ TOKYO] カットオフソフトスウェットシャツ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] リラクシーキュプラパンツ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ハイライズストレートデニム   : in_stock → out_of_stock
 - [ETRÉ TOKYO] 砂化粧釉マグカップ   : out_of_stock → unknown
 - [ETRÉ TOKYO] DEPENDRE カップインランダムテレコタンク   : out_of_stock → in_stock
 - [ETRÉ TOKYO] ハイゲージバイカーニットパンツ   : out_of_stock → in_stock
@@ -50,12 +59,3 @@
 - [ETRÉ TOKYO] カットオフフリルネックシャツ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] オフショルダーボリュームスリーブブラウス   : out_of_stock → in_stock
 - [ETRÉ TOKYO] ハーフスリーブハイネックシアープルオーバー   : out_of_stock → in_stock
-- [ETRÉ TOKYO] カットオフソフトスウェットシャツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] リラクシーキュプラパンツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ハイライズストレートデニム   : out_of_stock → in_stock
-- [ETRÉ TOKYO] エンブロイダリーオールインワン   : out_of_stock → in_stock
-- [ETRÉ TOKYO] シアーレイヤードキャミワンピース   : out_of_stock → in_stock
-- [ETRÉ TOKYO] タンドレザージップリップケース   : out_of_stock → in_stock
-- [ETRÉ TOKYO] タンドレザージップサングラスケース   : out_of_stock → in_stock
-- [ETRÉ TOKYO] パイルギャザーミニスカート   : out_of_stock → in_stock
-- [ETRÉ TOKYO] サイドスリットパイルレギンス   : out_of_stock → in_stock
