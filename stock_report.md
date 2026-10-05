@@ -1,14 +1,20 @@
 # 日本购物网站库存报告
 
-更新时间：2026-10-05 08:11:26
+更新时间：2026-10-05 16:51:06
 
 ## 库存统计
 
-- ETRÉ TOKYO：商品 341 个，缺货规格 149 个
+- ETRÉ TOKYO：商品 341 个，缺货规格 155 个
 - LIFE's #203：商品 433 个，缺货规格 0 个
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] CUTIPOL MOONディナーフォーク   : in_stock → out_of_stock
+- [ETRÉ TOKYO] CUTIPOL SUIテーブルスプーン   : in_stock → out_of_stock
+- [ETRÉ TOKYO] フードストールロングトレンチコート   : in_stock → out_of_stock
+- [ETRÉ TOKYO] コンシャススリーブトレンチコート   : in_stock → out_of_stock
+- [ETRÉ TOKYO] プレーンステッチＶネックニットカーディガン   : in_stock → out_of_stock
+- [ETRÉ TOKYO] SANTEウールカシミヤタートルニットプルオーバー   : in_stock → out_of_stock
 - [ETRÉ TOKYO] DEPENDRE カップインランダムテレコタンク   : in_stock → out_of_stock
 - [ETRÉ TOKYO] パディングワークブルゾン   : in_stock → out_of_stock
 - [ETRÉ TOKYO] SANTEコンストラクティブジャケット   : in_stock → out_of_stock
@@ -53,9 +59,3 @@
 - [ETRÉ TOKYO] サイドピンタックラインリラクシーパンツ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] ベルテッドタックワイドパンツ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] ダブルフェイスIラインスカート   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ナローケーブルニットワンピース   : out_of_stock → in_stock
-- [ETRÉ TOKYO] サイドベンツテーラードジャケット   : out_of_stock → in_stock
-- [ETRÉ TOKYO] Vネックリブニットカーディガン   : out_of_stock → in_stock
-- [ETRÉ TOKYO] カットオフフリルネックシャツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] オフショルダーボリュームスリーブブラウス   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ハーフスリーブハイネックシアープルオーバー   : out_of_stock → in_stock
