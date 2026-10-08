@@ -1,14 +1,31 @@
 # 日本购物网站库存报告
 
-更新时间：2026-10-08 07:03:52
+更新时间：2026-10-08 14:27:11
 
 ## 库存统计
 
 - ETRÉ TOKYO：商品 341 个，缺货规格 152 个
-- LIFE's #203：商品 435 个，缺货规格 0 个
+- LIFE's #203：商品 456 个，缺货规格 0 个
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] 砂化粧釉マグカップ   : unknown → in_stock
+- [ETRÉ TOKYO] SANTEウエストシェイプテーラージャケット   : unknown → in_stock
+- [ETRÉ TOKYO] アウトポケットボリュームスリーブブルゾン   : unknown → in_stock
+- [ETRÉ TOKYO] SANTEカフプリーツシャツ   : unknown → in_stock
+- [ETRÉ TOKYO] レースカフベルベットプルオーバー   : unknown → in_stock
+- [ETRÉ TOKYO] ペインターカーブパンツ   : unknown → in_stock
+- [ETRÉ TOKYO] SANTEセンタークリースセミワイドパンツ   : unknown → in_stock
+- [ETRÉ TOKYO] SANTEタックAラインスカート   : unknown → in_stock
+- [ETRÉ TOKYO] SANTEグレイスフルロングドレス   : unknown → in_stock
+- [ETRÉ TOKYO] SANTEケープディテールオールインワン   : unknown → in_stock
+- [ETRÉ TOKYO] Wハンドルスウェードビッグトートバッグ   : unknown → in_stock
+- [ETRÉ TOKYO] スウェードミドルトートバッグ   : unknown → in_stock
+- [ETRÉ TOKYO] カシミヤニットストール   : unknown → in_stock
+- [ETRÉ TOKYO] ジルコン白釉湯呑み   : unknown → in_stock
+- [ETRÉ TOKYO] ジルコン白釉スクエアプレート大   : unknown → in_stock
+- [ETRÉ TOKYO] ジルコン白釉スクエアプレート中   : unknown → in_stock
+- [ETRÉ TOKYO] ジルコン白釉スクエアプレート小   : unknown → in_stock
 - [ETRÉ TOKYO] ボリュームスリーブバルーンシャツ   : in_stock → out_of_stock
 - [ETRÉ TOKYO] サプルフェイクレザーシャツ   : in_stock → out_of_stock
 - [ETRÉ TOKYO] レースカフコーデュロイプルオーバー   : in_stock → out_of_stock
@@ -42,20 +59,3 @@
 - [ETRÉ TOKYO] SANTEレザーコサージュ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] サイドベンツテーラードジャケット   : out_of_stock → in_stock
 - [ETRÉ TOKYO] Vネックリブニットカーディガン   : out_of_stock → in_stock
-- [ETRÉ TOKYO] エンブロイダリーオールインワン   : out_of_stock → in_stock
-- [ETRÉ TOKYO] シアーレイヤードキャミワンピース   : out_of_stock → in_stock
-- [ETRÉ TOKYO] タンドレザージップリップケース   : out_of_stock → in_stock
-- [ETRÉ TOKYO] タンドレザージップサングラスケース   : out_of_stock → in_stock
-- [ETRÉ TOKYO] パイルギャザーミニスカート   : out_of_stock → in_stock
-- [ETRÉ TOKYO] サイドスリットパイルレギンス   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ヘムギャザーオールインワン   : out_of_stock → in_stock
-- [ETRÉ TOKYO] フェードパイルショートパンツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] AMPHI×ETRE TOKYOフィットハイウエストレギンス   : out_of_stock → in_stock
-- [ETRÉ TOKYO] AMPHI×ETRE TOKYOフィットカップインキャミソール   : out_of_stock → in_stock
-- [ETRÉ TOKYO] AMPHI×ETRE TOKYOフィットハーフレギンス   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ドライタッチハーフスリーブプルオーバー   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ボリュームスリーブ2wayトップス   : out_of_stock → in_stock
-- [ETRÉ TOKYO] タックイージーパンツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] エアリーコットンガーメントダイボリュームスカート   : out_of_stock → in_stock
-- [ETRÉ TOKYO] タンクトップコンビロングワンピース   : out_of_stock → in_stock
-- [ETRÉ TOKYO] Silver925クラッチピアス   : out_of_stock → in_stock
