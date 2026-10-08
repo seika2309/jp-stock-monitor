@@ -1,14 +1,20 @@
 # 日本购物网站库存报告
 
-更新时间：2026-10-08 00:51:48
+更新时间：2026-10-08 07:03:52
 
 ## 库存统计
 
-- ETRÉ TOKYO：商品 341 个，缺货规格 146 个
+- ETRÉ TOKYO：商品 341 个，缺货规格 152 个
 - LIFE's #203：商品 435 个，缺货规格 0 个
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] ボリュームスリーブバルーンシャツ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] サプルフェイクレザーシャツ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] レースカフコーデュロイプルオーバー   : in_stock → out_of_stock
+- [ETRÉ TOKYO] オーバーサイズデニムシャツ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] コンフィーニットTee   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ヘアリーミックスニットプルオーバー   : in_stock → out_of_stock
 - [ETRÉ TOKYO] 砂化粧釉マグカップ   : out_of_stock → unknown
 - [ETRÉ TOKYO] ハイゲージバイカーニットパンツ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] Levi's LOW LOOSE   : out_of_stock → in_stock
@@ -53,9 +59,3 @@
 - [ETRÉ TOKYO] エアリーコットンガーメントダイボリュームスカート   : out_of_stock → in_stock
 - [ETRÉ TOKYO] タンクトップコンビロングワンピース   : out_of_stock → in_stock
 - [ETRÉ TOKYO] Silver925クラッチピアス   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ハンドステッチタンドレザーフラットサンダル   : out_of_stock → in_stock
-- [ETRÉ TOKYO] タンドレザーバックルレスベルト   : out_of_stock → in_stock
-- [ETRÉ TOKYO] チェーンステッチテーブルマットセット   : out_of_stock → in_stock
-- [ETRÉ TOKYO] チェーンステッチコースターセット   : out_of_stock → in_stock
-- [ETRÉ TOKYO] チェーンステッチ割烹着   : out_of_stock → in_stock
-- [ETRÉ TOKYO] フェイクレザールームシューズ   : out_of_stock → in_stock
