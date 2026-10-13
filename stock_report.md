@@ -1,14 +1,21 @@
 # 日本购物网站库存报告
 
-更新时间：2026-10-12 23:29:06
+更新时间：2026-10-13 04:29:42
 
 ## 库存统计
 
-- ETRÉ TOKYO：商品 350 个，缺货规格 159 个
+- ETRÉ TOKYO：商品 350 个，缺货规格 165 个
 - LIFE's #203：商品 462 个，缺货规格 0 个
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] SANTEグレイスフルロングドレス   : in_stock → unknown
+- [ETRÉ TOKYO] SANTEケープディテールオールインワン   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ジャガードタンクミニワンピース   : in_stock → out_of_stock
+- [ETRÉ TOKYO] SHISEI SKINY BOOTS   : in_stock → out_of_stock
+- [ETRÉ TOKYO] スウェードナロークロッグシューズ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] スムースナロークロッグシューズ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] フェイクファーナロークロッグシューズ   : in_stock → out_of_stock
 - [ETRÉ TOKYO] 砂化粧釉マグカップ   : out_of_stock → unknown
 - [ETRÉ TOKYO] DEPENDRE カップインランダムテレコタンク   : out_of_stock → in_stock
 - [ETRÉ TOKYO] ハイゲージバイカーニットパンツ   : out_of_stock → in_stock
@@ -52,10 +59,3 @@
 - [ETRÉ TOKYO] ハンドステッチタンドレザーフラットサンダル   : out_of_stock → in_stock
 - [ETRÉ TOKYO] タンドレザーバックルレスベルト   : out_of_stock → in_stock
 - [ETRÉ TOKYO] チェーンステッチテーブルマットセット   : out_of_stock → in_stock
-- [ETRÉ TOKYO] チェーンステッチコースターセット   : out_of_stock → in_stock
-- [ETRÉ TOKYO] チェーンステッチ割烹着   : out_of_stock → in_stock
-- [ETRÉ TOKYO] フェイクレザールームシューズ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ETRE TOKYO Waterproof spray   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ETRE TOKYO タンブラーボトル   : out_of_stock → in_stock
-- [ETRÉ TOKYO] 2パックアイレットカーディガン   : out_of_stock → in_stock
-- [ETRÉ TOKYO] フェイクスウェード2wayキャミチュニック   : out_of_stock → in_stock
