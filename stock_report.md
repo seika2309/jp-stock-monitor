@@ -1,6 +1,6 @@
 # 日本购物网站库存报告
 
-更新时间：2026-10-14 14:18:01
+更新时间：2026-10-14 19:09:43
 
 ## 库存统计
 
@@ -9,6 +9,20 @@
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] 砂化粧釉マグカップ   : unknown → in_stock
+- [ETRÉ TOKYO] アウトポケットボリュームスリーブブルゾン   : unknown → in_stock
+- [ETRÉ TOKYO] ペインターカーブパンツ   : unknown → in_stock
+- [ETRÉ TOKYO] SANTEグレイスフルロングドレス   : unknown → in_stock
+- [ETRÉ TOKYO] Wハンドルスウェードビッグトートバッグ   : unknown → in_stock
+- [ETRÉ TOKYO] レースコンビカシュクールニットプルオーバー   : preorder → in_stock
+- [ETRÉ TOKYO] チノクロススティフカーゴパンツ   : preorder → in_stock
+- [ETRÉ TOKYO] マルチウェイレースコンビラップスカート   : preorder → in_stock
+- [ETRÉ TOKYO] ノーカラースリークジャケット   : preorder → in_stock
+- [ETRÉ TOKYO] クロシェニットカーディガン   : preorder → in_stock
+- [ETRÉ TOKYO] バルーンヘムデザインシャツ   : preorder → in_stock
+- [ETRÉ TOKYO] ハンドエンブロイダリーローゲージニットプルオーバー   : preorder → in_stock
+- [ETRÉ TOKYO] ハイストレッチトレンカ   : preorder → in_stock
+- [ETRÉ TOKYO] ハンドエンブロイダリーダブルガーゼパンツ   : preorder → in_stock
 - [ETRÉ TOKYO] レースコットンキャミワンピース   : in_stock → out_of_stock
 - [ETRÉ TOKYO] フレアシルエットニットオールインワン   : in_stock → out_of_stock
 - [ETRÉ TOKYO] センターシームパイルロングワンピース   : in_stock → out_of_stock
@@ -45,17 +59,3 @@
 - [ETRÉ TOKYO] SANTEレザーコサージュ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] サイドベンツテーラードジャケット   : out_of_stock → in_stock
 - [ETRÉ TOKYO] Vネックリブニットカーディガン   : out_of_stock → in_stock
-- [ETRÉ TOKYO] エンブロイダリーオールインワン   : out_of_stock → in_stock
-- [ETRÉ TOKYO] シアーレイヤードキャミワンピース   : out_of_stock → in_stock
-- [ETRÉ TOKYO] タンドレザージップリップケース   : out_of_stock → in_stock
-- [ETRÉ TOKYO] タンドレザージップサングラスケース   : out_of_stock → in_stock
-- [ETRÉ TOKYO] パイルギャザーミニスカート   : out_of_stock → in_stock
-- [ETRÉ TOKYO] サイドスリットパイルレギンス   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ヘムギャザーオールインワン   : out_of_stock → in_stock
-- [ETRÉ TOKYO] フェードパイルショートパンツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] AMPHI×ETRE TOKYOフィットハイウエストレギンス   : out_of_stock → in_stock
-- [ETRÉ TOKYO] AMPHI×ETRE TOKYOフィットカップインキャミソール   : out_of_stock → in_stock
-- [ETRÉ TOKYO] AMPHI×ETRE TOKYOフィットハーフレギンス   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ドライタッチハーフスリーブプルオーバー   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ボリュームスリーブ2wayトップス   : out_of_stock → in_stock
-- [ETRÉ TOKYO] タックイージーパンツ   : out_of_stock → in_stock
