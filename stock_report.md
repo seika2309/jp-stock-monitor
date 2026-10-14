@@ -1,14 +1,20 @@
 # 日本购物网站库存报告
 
-更新时间：2026-10-14 08:17:10
+更新时间：2026-10-14 14:18:01
 
 ## 库存统计
 
-- ETRÉ TOKYO：商品 350 个，缺货规格 165 个
+- ETRÉ TOKYO：商品 350 个，缺货规格 171 个
 - LIFE's #203：商品 462 个，缺货规格 0 个
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] レースコットンキャミワンピース   : in_stock → out_of_stock
+- [ETRÉ TOKYO] フレアシルエットニットオールインワン   : in_stock → out_of_stock
+- [ETRÉ TOKYO] センターシームパイルロングワンピース   : in_stock → out_of_stock
+- [ETRÉ TOKYO] スウェードギャザーローファー   : in_stock → out_of_stock
+- [ETRÉ TOKYO] パテッドソフトスニーカー   : in_stock → out_of_stock
+- [ETRÉ TOKYO] ナローショルダースウェードミニバッグ   : in_stock → out_of_stock
 - [ETRÉ TOKYO] SANTEグレイスフルロングドレス   : in_stock → unknown
 - [ETRÉ TOKYO] SANTEケープディテールオールインワン   : in_stock → out_of_stock
 - [ETRÉ TOKYO] ジャガードタンクミニワンピース   : in_stock → out_of_stock
@@ -53,9 +59,3 @@
 - [ETRÉ TOKYO] ドライタッチハーフスリーブプルオーバー   : out_of_stock → in_stock
 - [ETRÉ TOKYO] ボリュームスリーブ2wayトップス   : out_of_stock → in_stock
 - [ETRÉ TOKYO] タックイージーパンツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] エアリーコットンガーメントダイボリュームスカート   : out_of_stock → in_stock
-- [ETRÉ TOKYO] タンクトップコンビロングワンピース   : out_of_stock → in_stock
-- [ETRÉ TOKYO] Silver925クラッチピアス   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ハンドステッチタンドレザーフラットサンダル   : out_of_stock → in_stock
-- [ETRÉ TOKYO] タンドレザーバックルレスベルト   : out_of_stock → in_stock
-- [ETRÉ TOKYO] チェーンステッチテーブルマットセット   : out_of_stock → in_stock
