@@ -1,6 +1,6 @@
 # 日本购物网站库存报告
 
-更新时间：2026-10-16 12:58:27
+更新时间：2026-10-16 17:12:44
 
 ## 库存统计
 
@@ -9,6 +9,11 @@
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] 砂化粧釉マグカップ   : unknown → in_stock
+- [ETRÉ TOKYO] アウトポケットボリュームスリーブブルゾン   : unknown → in_stock
+- [ETRÉ TOKYO] ペインターカーブパンツ   : unknown → in_stock
+- [ETRÉ TOKYO] SANTEグレイスフルロングドレス   : unknown → in_stock
+- [ETRÉ TOKYO] Wハンドルスウェードビッグトートバッグ   : unknown → in_stock
 - [ETRÉ TOKYO] 砂化粧釉マグカップ   : in_stock → unknown
 - [ETRÉ TOKYO] アウトポケットボリュームスリーブブルゾン   : in_stock → unknown
 - [ETRÉ TOKYO] ペインターカーブパンツ   : in_stock → unknown
@@ -54,8 +59,3 @@
 - [ETRÉ TOKYO] CUTIPOL MOONディナーナイフ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] ミドルゲージＶネックニットカーディガン   : out_of_stock → in_stock
 - [ETRÉ TOKYO] バックサテンリラクシーカーゴパンツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] SANTEバックデザインドレス   : out_of_stock → in_stock
-- [ETRÉ TOKYO] キュプラネクタイオーバーサイズシャツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] リバーシブルボックスニットプルオーバー   : out_of_stock → in_stock
-- [ETRÉ TOKYO] サイドピンタックラインリラクシーパンツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ベルテッドタックワイドパンツ   : out_of_stock → in_stock
