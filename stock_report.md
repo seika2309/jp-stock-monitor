@@ -1,6 +1,6 @@
 # 日本购物网站库存报告
 
-更新时间：2026-10-18 18:31:17
+更新时间：2026-10-18 21:18:06
 
 ## 库存统计
 
@@ -9,7 +9,8 @@
 
 ## 最近库存变化
 
-- [ETRÉ TOKYO]    : in_stock → unknown
+- [ETRÉ TOKYO] カシミヤニットストール   : unknown → in_stock
+- [ETRÉ TOKYO] カシミヤニットストール   : in_stock → unknown
 - [ETRÉ TOKYO] 砂化粧釉マグカップ   : out_of_stock → unknown
 - [ETRÉ TOKYO] DEPENDRE カップインランダムテレコタンク   : out_of_stock → in_stock
 - [ETRÉ TOKYO] ハイゲージバイカーニットパンツ   : out_of_stock → in_stock
@@ -58,4 +59,3 @@
 - [ETRÉ TOKYO] フェイクレザールームシューズ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] ETRE TOKYO Waterproof spray   : out_of_stock → in_stock
 - [ETRÉ TOKYO] ETRE TOKYO タンブラーボトル   : out_of_stock → in_stock
-- [ETRÉ TOKYO] 2パックアイレットカーディガン   : out_of_stock → in_stock
