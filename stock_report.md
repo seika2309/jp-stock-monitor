@@ -1,6 +1,6 @@
 # 日本购物网站库存报告
 
-更新时间：2026-10-19 08:23:08
+更新时间：2026-10-19 16:07:23
 
 ## 库存统计
 
@@ -9,6 +9,9 @@
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] マルチウェイレースコンビラップスカート   : preorder → in_stock
+- [ETRÉ TOKYO] ハンドエンブロイダリーローゲージニットプルオーバー   : preorder → in_stock
+- [ETRÉ TOKYO] ハイストレッチトレンカ   : preorder → in_stock
 - [ETRÉ TOKYO] ASAUCEMELERヤク×アルパカシャンブレーシャギーストール   : out_of_stock → in_stock
 - [ETRÉ TOKYO] three dots オーガニックコットンクルーネックTee   : out_of_stock → in_stock
 - [ETRÉ TOKYO] three dots サンデットジャージークルーネックTee   : out_of_stock → in_stock
@@ -56,6 +59,3 @@
 - [ETRÉ TOKYO] シアーレイヤードキャミワンピース   : out_of_stock → in_stock
 - [ETRÉ TOKYO] タンドレザージップリップケース   : out_of_stock → in_stock
 - [ETRÉ TOKYO] タンドレザージップサングラスケース   : out_of_stock → in_stock
-- [ETRÉ TOKYO] パイルギャザーミニスカート   : out_of_stock → in_stock
-- [ETRÉ TOKYO] サイドスリットパイルレギンス   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ヘムギャザーオールインワン   : out_of_stock → in_stock
