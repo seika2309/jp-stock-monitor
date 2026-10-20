@@ -1,6 +1,6 @@
 # 日本购物网站库存报告
 
-更新时间：2026-10-20 15:35:18
+更新时间：2026-10-20 19:51:27
 
 ## 库存统计
 
@@ -9,6 +9,14 @@
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] ウールツイルボックスジャケット   : unknown → in_stock
+- [ETRÉ TOKYO] アウトポケットボリュームスリーブブルゾン   : unknown → in_stock
+- [ETRÉ TOKYO] ショルダーパットヘアリーニットプルオーバー   : unknown → in_stock
+- [ETRÉ TOKYO] パターンスティッチハーフジップニットプルオーバー   : unknown → in_stock
+- [ETRÉ TOKYO] サプルダブルクロスカプリパンツ   : unknown → in_stock
+- [ETRÉ TOKYO] ペインターカーブパンツ   : unknown → in_stock
+- [ETRÉ TOKYO] SANTEグレイスフルロングドレス   : unknown → in_stock
+- [ETRÉ TOKYO] Wハンドルスウェードビッグトートバッグ   : unknown → in_stock
 - [ETRÉ TOKYO] CUTIPOL MOONディナーナイフ   : in_stock → out_of_stock
 - [ETRÉ TOKYO] CUTIPOL MOONディナーフォーク   : in_stock → out_of_stock
 - [ETRÉ TOKYO] CUTIPOL SUIテーブルスプーン   : in_stock → out_of_stock
@@ -51,11 +59,3 @@
 - [ETRÉ TOKYO] CUTIPOL MOONディナーフォーク   : out_of_stock → in_stock
 - [ETRÉ TOKYO] CUTIPOL SUIテーブルスプーン   : out_of_stock → in_stock
 - [ETRÉ TOKYO] パディングワークブルゾン   : out_of_stock → in_stock
-- [ETRÉ TOKYO] SANTEコンストラクティブジャケット   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ファンシーヤーンクルーネックニットカーディガン   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ハイゲージワンショルダーニットプルオーバー   : out_of_stock → in_stock
-- [ETRÉ TOKYO] マルチウェイレースコンビラップスカート   : in_stock → preorder
-- [ETRÉ TOKYO] ハンドエンブロイダリーローゲージニットプルオーバー   : in_stock → preorder
-- [ETRÉ TOKYO] ハイストレッチトレンカ   : in_stock → preorder
-- [ETRÉ TOKYO] カシミヤニットストール   : unknown → in_stock
-- [ETRÉ TOKYO] カシミヤニットストール   : in_stock → unknown
