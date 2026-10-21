@@ -1,6 +1,6 @@
 # 日本购物网站库存报告
 
-更新时间：2026-10-21 06:53:44
+更新时间：2026-10-21 12:40:57
 
 ## 库存统计
 
@@ -9,6 +9,14 @@
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] ウールツイルボックスジャケット   : unknown → in_stock
+- [ETRÉ TOKYO] アウトポケットボリュームスリーブブルゾン   : unknown → in_stock
+- [ETRÉ TOKYO] ショルダーパットヘアリーニットプルオーバー   : unknown → in_stock
+- [ETRÉ TOKYO] パターンスティッチハーフジップニットプルオーバー   : unknown → in_stock
+- [ETRÉ TOKYO] サプルダブルクロスカプリパンツ   : unknown → in_stock
+- [ETRÉ TOKYO] ペインターカーブパンツ   : unknown → in_stock
+- [ETRÉ TOKYO] SANTEグレイスフルロングドレス   : unknown → in_stock
+- [ETRÉ TOKYO] Wハンドルスウェードビッグトートバッグ   : unknown → in_stock
 - [ETRÉ TOKYO] ウールツイルボックスジャケット   : in_stock → unknown
 - [ETRÉ TOKYO] アウトポケットボリュームスリーブブルゾン   : in_stock → unknown
 - [ETRÉ TOKYO] ショルダーパットヘアリーニットプルオーバー   : in_stock → unknown
@@ -51,11 +59,3 @@
 - [ETRÉ TOKYO] ヘアリーミックスニットプルオーバー   : out_of_stock → in_stock
 - [ETRÉ TOKYO] ショルダーパットヘアリーニットプルオーバー   : out_of_stock → unknown
 - [ETRÉ TOKYO] DEPENDREハイネックニットプルオーバー   : out_of_stock → in_stock
-- [ETRÉ TOKYO] フロントオープンロングニットキャミソール   : out_of_stock → in_stock
-- [ETRÉ TOKYO] マルチウェイレースコンビラップスカート   : preorder → in_stock
-- [ETRÉ TOKYO] ハンドエンブロイダリーローゲージニットプルオーバー   : preorder → in_stock
-- [ETRÉ TOKYO] ハイストレッチトレンカ   : preorder → in_stock
-- [ETRÉ TOKYO] ASAUCEMELERヤク×アルパカシャンブレーシャギーストール   : out_of_stock → in_stock
-- [ETRÉ TOKYO] three dots オーガニックコットンクルーネックTee   : out_of_stock → in_stock
-- [ETRÉ TOKYO] three dots サンデットジャージークルーネックTee   : out_of_stock → in_stock
-- [ETRÉ TOKYO] DEPENDREブロードシャツ   : out_of_stock → in_stock
