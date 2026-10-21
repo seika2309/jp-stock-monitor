@@ -1,6 +1,6 @@
 # 日本购物网站库存报告
 
-更新时间：2026-10-21 01:14:30
+更新时间：2026-10-21 06:53:44
 
 ## 库存统计
 
@@ -9,6 +9,14 @@
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] ウールツイルボックスジャケット   : in_stock → unknown
+- [ETRÉ TOKYO] アウトポケットボリュームスリーブブルゾン   : in_stock → unknown
+- [ETRÉ TOKYO] ショルダーパットヘアリーニットプルオーバー   : in_stock → unknown
+- [ETRÉ TOKYO] パターンスティッチハーフジップニットプルオーバー   : in_stock → unknown
+- [ETRÉ TOKYO] サプルダブルクロスカプリパンツ   : in_stock → unknown
+- [ETRÉ TOKYO] ペインターカーブパンツ   : in_stock → unknown
+- [ETRÉ TOKYO] SANTEグレイスフルロングドレス   : in_stock → unknown
+- [ETRÉ TOKYO] Wハンドルスウェードビッグトートバッグ   : in_stock → unknown
 - [ETRÉ TOKYO] ウールツイルボックスジャケット   : unknown → in_stock
 - [ETRÉ TOKYO] アウトポケットボリュームスリーブブルゾン   : unknown → in_stock
 - [ETRÉ TOKYO] ショルダーパットヘアリーニットプルオーバー   : unknown → in_stock
@@ -51,11 +59,3 @@
 - [ETRÉ TOKYO] three dots オーガニックコットンクルーネックTee   : out_of_stock → in_stock
 - [ETRÉ TOKYO] three dots サンデットジャージークルーネックTee   : out_of_stock → in_stock
 - [ETRÉ TOKYO] DEPENDREブロードシャツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] DEPENDREシアーロンTee   : out_of_stock → in_stock
-- [ETRÉ TOKYO] DEPENDRE Wストラップニットキャミ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ミドルゲージＶネックニットカーディガン   : in_stock → out_of_stock
-- [ETRÉ TOKYO] バックサテンリラクシーカーゴパンツ   : in_stock → out_of_stock
-- [ETRÉ TOKYO] CUTIPOL MOONディナーナイフ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] CUTIPOL MOONディナーフォーク   : out_of_stock → in_stock
-- [ETRÉ TOKYO] CUTIPOL SUIテーブルスプーン   : out_of_stock → in_stock
-- [ETRÉ TOKYO] パディングワークブルゾン   : out_of_stock → in_stock
