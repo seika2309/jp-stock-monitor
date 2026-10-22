@@ -1,14 +1,15 @@
 # 日本购物网站库存报告
 
-更新时间：2026-10-22 08:12:20
+更新时间：2026-10-22 14:37:41
 
 ## 库存统计
 
-- ETRÉ TOKYO：商品 356 个，缺货规格 296 个
+- ETRÉ TOKYO：商品 356 个，缺货规格 297 个
 - LIFE's #203：商品 462 个，缺货规格 0 个
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] 砂化粧釉マグカップ   : unknown → out_of_stock
 - [ETRÉ TOKYO] ASAUCEMELERヤク×アルパカシャンブレーシャギーストール   : in_stock → out_of_stock
 - [ETRÉ TOKYO] three dots オーガニックコットンクルーネックTee   : in_stock → out_of_stock
 - [ETRÉ TOKYO] three dots サンデットジャージークルーネックTee   : in_stock → out_of_stock
@@ -58,4 +59,3 @@
 - [ETRÉ TOKYO] コットンドビーギャザーパンツ   : in_stock → out_of_stock
 - [ETRÉ TOKYO] ガーメントダイソフトシアーパンツ   : in_stock → out_of_stock
 - [ETRÉ TOKYO] リネンライクエアリータックパンツ   : in_stock → out_of_stock
-- [ETRÉ TOKYO] タックイージーパンツ   : in_stock → out_of_stock
