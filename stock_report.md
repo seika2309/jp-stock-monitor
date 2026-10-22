@@ -1,6 +1,6 @@
 # 日本购物网站库存报告
 
-更新时间：2026-10-21 21:08:59
+更新时间：2026-10-22 00:03:17
 
 ## 库存统计
 
@@ -9,6 +9,14 @@
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] ウールツイルボックスジャケット   : in_stock → unknown
+- [ETRÉ TOKYO] アウトポケットボリュームスリーブブルゾン   : in_stock → unknown
+- [ETRÉ TOKYO] ショルダーパットヘアリーニットプルオーバー   : in_stock → unknown
+- [ETRÉ TOKYO] パターンスティッチハーフジップニットプルオーバー   : in_stock → unknown
+- [ETRÉ TOKYO] サプルダブルクロスカプリパンツ   : in_stock → unknown
+- [ETRÉ TOKYO] ペインターカーブパンツ   : in_stock → unknown
+- [ETRÉ TOKYO] SANTEグレイスフルロングドレス   : in_stock → unknown
+- [ETRÉ TOKYO] Wハンドルスウェードビッグトートバッグ   : in_stock → unknown
 - [ETRÉ TOKYO] ウールツイルボックスジャケット   : unknown → in_stock
 - [ETRÉ TOKYO] アウトポケットボリュームスリーブブルゾン   : unknown → in_stock
 - [ETRÉ TOKYO] ショルダーパットヘアリーニットプルオーバー   : unknown → in_stock
@@ -51,11 +59,3 @@
 - [ETRÉ TOKYO] コットンドビーギャザーパンツ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] ガーメントダイソフトシアーパンツ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] リネンライクエアリータックパンツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] リングドットフライスタンクトップ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ボリュームスリーブバルーンシャツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] サプルフェイクレザーシャツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] オーバーサイズデニムシャツ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] コンフィーニットTee   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ヘアリーミックスニットプルオーバー   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ショルダーパットヘアリーニットプルオーバー   : out_of_stock → unknown
-- [ETRÉ TOKYO] DEPENDREハイネックニットプルオーバー   : out_of_stock → in_stock
