@@ -1,6 +1,6 @@
 # 日本购物网站库存报告
 
-更新时间：2026-10-24 15:08:54
+更新时间：2026-10-24 18:04:10
 
 ## 库存统计
 
@@ -9,6 +9,7 @@
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] 403 ERROR   : in_stock → unknown
 - [ETRÉ TOKYO] スリークラインベルベットパンツ   : unknown → in_stock
 - [ETRÉ TOKYO] デザインタックセンタープレスパンツ   : unknown → in_stock
 - [ETRÉ TOKYO] スリークラインコーデュロイパンツ   : unknown → in_stock
@@ -36,7 +37,7 @@
 - [ETRÉ TOKYO] ジルコン白釉湯呑み   : unknown → in_stock
 - [ETRÉ TOKYO] ジルコン白釉スクエアプレート大   : unknown → in_stock
 - [ETRÉ TOKYO] ジルコン白釉スクエアプレート中   : unknown → in_stock
-- [ETRÉ TOKYO] ジルコン白釉スクエアプレート小   : unknown → in_stock
+- [ETRÉ TOKYO] 403 ERROR   : unknown → in_stock
 - [ETRÉ TOKYO] スリークラインベルベットパンツ   : in_stock → unknown
 - [ETRÉ TOKYO] デザインタックセンタープレスパンツ   : in_stock → unknown
 - [ETRÉ TOKYO] スリークラインコーデュロイパンツ   : in_stock → unknown
@@ -58,4 +59,3 @@
 - [ETRÉ TOKYO] スウェードミドルトートバッグ   : in_stock → unknown
 - [ETRÉ TOKYO] ラムウールメルトンキャップ   : in_stock → unknown
 - [ETRÉ TOKYO] アイレットニットストール   : in_stock → unknown
-- [ETRÉ TOKYO] カシミヤニットストール   : in_stock → unknown
