@@ -1,6 +1,6 @@
 # 日本购物网站库存报告
 
-更新时间：2026-10-25 05:37:51
+更新时间：2026-10-25 10:29:33
 
 ## 库存统计
 
@@ -9,6 +9,14 @@
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] 砂化粧釉マグカップ   : unknown → in_stock
+- [ETRÉ TOKYO] Wハンドルスウェードビッグトートバッグ   : unknown → in_stock
+- [ETRÉ TOKYO] コンバーティブルカラーミディリバーコート   : unknown → in_stock
+- [ETRÉ TOKYO] ドレープハイネックロングリバーコート   : unknown → in_stock
+- [ETRÉ TOKYO] フェイクムートンリバーシブルコート   : unknown → in_stock
+- [ETRÉ TOKYO] ミドルゲージハイネックニットプルオーバー   : unknown → in_stock
+- [ETRÉ TOKYO] ラウンドヨーククロシェニットプルオーバー   : unknown → in_stock
+- [ETRÉ TOKYO] ハイライズワイドデニムパンツ   : unknown → in_stock
 - [ETRÉ TOKYO] メッセージエンブロイダリーロンTee   : unknown → in_stock
 - [ETRÉ TOKYO] アウトタックセミワイドパンツ   : unknown → in_stock
 - [ETRÉ TOKYO] パイルピンタックワイドパンツ   : unknown → in_stock
@@ -51,11 +59,3 @@
 - [ETRÉ TOKYO] SANTEセンタークリースセミワイドパンツ   : in_stock → unknown
 - [ETRÉ TOKYO] スリークラインベルベットパンツ   : in_stock → unknown
 - [ETRÉ TOKYO] デザインタックセンタープレスパンツ   : in_stock → unknown
-- [ETRÉ TOKYO] スリークラインコーデュロイパンツ   : in_stock → unknown
-- [ETRÉ TOKYO] フロントデザインIラインスカート   : in_stock → unknown
-- [ETRÉ TOKYO] SANTEタックAラインスカート   : in_stock → unknown
-- [ETRÉ TOKYO] レオパードジャガードロングスカート   : in_stock → unknown
-- [ETRÉ TOKYO] スカラレースアイラインマキシスカート   : in_stock → unknown
-- [ETRÉ TOKYO] ストレートデニムパンツ   : in_stock → unknown
-- [ETRÉ TOKYO] Levi's CINCH WIDE LEG   : in_stock → unknown
-- [ETRÉ TOKYO] フェイクスウェードエプロンオールインワン   : in_stock → unknown
