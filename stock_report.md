@@ -1,14 +1,31 @@
 # 日本购物网站库存报告
 
-更新时间：2026-10-25 18:09:15
+更新时间：2026-10-25 20:23:53
 
 ## 库存统计
 
-- ETRÉ TOKYO：商品 362 个，缺货规格 286 个
+- ETRÉ TOKYO：商品 362 个，缺货规格 303 个
 - LIFE's #203：商品 462 个，缺货规格 0 个
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] ノットディティールレザーミニバッグ   : unknown → out_of_stock
+- [ETRÉ TOKYO] スウェードミドルトートバッグ   : unknown → out_of_stock
+- [ETRÉ TOKYO] ラムウールメルトンキャップ   : unknown → out_of_stock
+- [ETRÉ TOKYO] アイレットニットストール   : unknown → out_of_stock
+- [ETRÉ TOKYO] カシミヤニットストール   : unknown → out_of_stock
+- [ETRÉ TOKYO] スウェードライクヘアバンド   : unknown → out_of_stock
+- [ETRÉ TOKYO] ヘッドアクセセット   : unknown → out_of_stock
+- [ETRÉ TOKYO] ジルコン白釉湯呑み   : unknown → out_of_stock
+- [ETRÉ TOKYO] ジルコン白釉スクエアプレート大   : unknown → out_of_stock
+- [ETRÉ TOKYO] ジルコン白釉スクエアプレート中   : unknown → out_of_stock
+- [ETRÉ TOKYO] ジルコン白釉スクエアプレート小   : unknown → out_of_stock
+- [ETRÉ TOKYO] コンバーティブルカラーミディリバーコート   : unknown → out_of_stock
+- [ETRÉ TOKYO] ドレープハイネックロングリバーコート   : unknown → out_of_stock
+- [ETRÉ TOKYO] フェイクムートンリバーシブルコート   : unknown → out_of_stock
+- [ETRÉ TOKYO] ミドルゲージハイネックニットプルオーバー   : unknown → out_of_stock
+- [ETRÉ TOKYO] ラウンドヨーククロシェニットプルオーバー   : unknown → out_of_stock
+- [ETRÉ TOKYO] ハイライズワイドデニムパンツ   : unknown → out_of_stock
 - [ETRÉ TOKYO] 砂化粧釉マグカップ   : in_stock → out_of_stock
 - [ETRÉ TOKYO] DEPENDRE カップインランダムテレコタンク   : in_stock → out_of_stock
 - [ETRÉ TOKYO] ハイゲージバイカーニットパンツ   : in_stock → out_of_stock
@@ -42,20 +59,3 @@
 - [ETRÉ TOKYO] タンドレザージップリップケース   : in_stock → out_of_stock
 - [ETRÉ TOKYO] タンドレザージップサングラスケース   : in_stock → out_of_stock
 - [ETRÉ TOKYO] パイルギャザーミニスカート   : in_stock → out_of_stock
-- [ETRÉ TOKYO] サイドスリットパイルレギンス   : in_stock → out_of_stock
-- [ETRÉ TOKYO] ヘムギャザーオールインワン   : in_stock → out_of_stock
-- [ETRÉ TOKYO] フェードパイルショートパンツ   : in_stock → out_of_stock
-- [ETRÉ TOKYO] AMPHI×ETRE TOKYOフィットハイウエストレギンス   : in_stock → out_of_stock
-- [ETRÉ TOKYO] AMPHI×ETRE TOKYOフィットカップインキャミソール   : in_stock → out_of_stock
-- [ETRÉ TOKYO] AMPHI×ETRE TOKYOフィットハーフレギンス   : in_stock → out_of_stock
-- [ETRÉ TOKYO] ドライタッチハーフスリーブプルオーバー   : in_stock → out_of_stock
-- [ETRÉ TOKYO] フレンチスリーブローゲージニットプルオーバー   : in_stock → out_of_stock
-- [ETRÉ TOKYO] エアリーコットンオーバーサイズTee   : in_stock → out_of_stock
-- [ETRÉ TOKYO] three dotsオーガニックコットンリンガーTee   : in_stock → out_of_stock
-- [ETRÉ TOKYO] コットンドビーギャザーパンツ   : in_stock → out_of_stock
-- [ETRÉ TOKYO] ガーメントダイソフトシアーパンツ   : in_stock → out_of_stock
-- [ETRÉ TOKYO] リネンライクエアリータックパンツ   : in_stock → out_of_stock
-- [ETRÉ TOKYO] タックイージーパンツ   : in_stock → out_of_stock
-- [ETRÉ TOKYO] エアリーコットンガーメントダイボリュームスカート   : in_stock → out_of_stock
-- [ETRÉ TOKYO] タンクトップコンビロングワンピース   : in_stock → out_of_stock
-- [ETRÉ TOKYO] Silver925クラッチピアス   : in_stock → out_of_stock
