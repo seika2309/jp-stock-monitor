@@ -1,6 +1,6 @@
 # 日本购物网站库存报告
 
-更新时间：2026-10-28 02:03:00
+更新时间：2026-10-28 07:49:12
 
 ## 库存统计
 
@@ -57,5 +57,5 @@
 - [ETRÉ TOKYO] スウェードミドルトートバッグ   : unknown → in_stock
 - [ETRÉ TOKYO] ラムウールメルトンキャップ   : unknown → in_stock
 - [ETRÉ TOKYO] アイレットニットストール   : unknown → in_stock
-- [ETRÉ TOKYO] カシミヤニットストール   : unknown → in_stock
+- [ETRÉ TOKYO] カシミヤストール   : unknown → in_stock
 - [ETRÉ TOKYO] スウェードライクヘアバンド   : unknown → in_stock
