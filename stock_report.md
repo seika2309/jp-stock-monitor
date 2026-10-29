@@ -1,14 +1,25 @@
 # 日本购物网站库存报告
 
-更新时间：2026-10-29 10:40:14
+更新时间：2026-10-29 17:19:41
 
 ## 库存统计
 
-- ETRÉ TOKYO：商品 367 个，缺货规格 277 个
+- ETRÉ TOKYO：商品 367 个，缺货规格 288 个
 - LIFE's #203：商品 462 个，缺货规格 0 个
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] SANTEタックAラインスカート   : unknown → out_of_stock
+- [ETRÉ TOKYO] レオパードジャガードロングスカート   : unknown → out_of_stock
+- [ETRÉ TOKYO] スカラレースアイラインマキシスカート   : unknown → out_of_stock
+- [ETRÉ TOKYO] ストレートデニムパンツ   : unknown → out_of_stock
+- [ETRÉ TOKYO] Levi's CINCH WIDE LEG   : unknown → out_of_stock
+- [ETRÉ TOKYO] フェイクスウェードエプロンオールインワン   : unknown → out_of_stock
+- [ETRÉ TOKYO] フェイクスウェードクリーンロングワンピース   : unknown → out_of_stock
+- [ETRÉ TOKYO] SANTEケープディテールオールインワン   : unknown → out_of_stock
+- [ETRÉ TOKYO] ジャガードタンクミニワンピース   : unknown → out_of_stock
+- [ETRÉ TOKYO] SHISEI SKINY BOOTS   : unknown → out_of_stock
+- [ETRÉ TOKYO] スウェードナロークロッグシューズ   : unknown → out_of_stock
 - [ETRÉ TOKYO] ハイネックケーブルニットプルオーバー   : unknown → out_of_stock
 - [ETRÉ TOKYO] DEPENDREハイネックニットプルオーバー   : unknown → out_of_stock
 - [ETRÉ TOKYO] フロントオープンロングニットキャミソール   : unknown → out_of_stock
@@ -48,14 +59,3 @@
 - [ETRÉ TOKYO] スリークラインベルベットパンツ   : out_of_stock → unknown
 - [ETRÉ TOKYO] デザインタックセンタープレスパンツ   : out_of_stock → unknown
 - [ETRÉ TOKYO] スリークラインコーデュロイパンツ   : out_of_stock → unknown
-- [ETRÉ TOKYO] フロントデザインIラインスカート   : out_of_stock → unknown
-- [ETRÉ TOKYO] 403 ERROR   : out_of_stock → unknown
-- [ETRÉ TOKYO] 403 ERROR   : out_of_stock → unknown
-- [ETRÉ TOKYO] 403 ERROR   : out_of_stock → unknown
-- [ETRÉ TOKYO] 403 ERROR   : out_of_stock → unknown
-- [ETRÉ TOKYO] 403 ERROR   : out_of_stock → unknown
-- [ETRÉ TOKYO] 403 ERROR   : out_of_stock → unknown
-- [ETRÉ TOKYO] 403 ERROR   : out_of_stock → unknown
-- [ETRÉ TOKYO] 403 ERROR   : out_of_stock → unknown
-- [ETRÉ TOKYO] 403 ERROR   : out_of_stock → unknown
-- [ETRÉ TOKYO] コンフィーニットTee   : unknown → out_of_stock
