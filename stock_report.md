@@ -1,14 +1,20 @@
 # 日本购物网站库存报告
 
-更新时间：2026-10-31 22:09:21
+更新时间：2026-11-01 01:45:10
 
 ## 库存统计
 
-- ETRÉ TOKYO：商品 371 个，缺货规格 287 个
+- ETRÉ TOKYO：商品 371 个，缺货规格 293 个
 - LIFE's #203：商品 462 个，缺货规格 0 个
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] スムースナロークロッグシューズ   : unknown → out_of_stock
+- [ETRÉ TOKYO] フェイクファーナロークロッグシューズ   : unknown → out_of_stock
+- [ETRÉ TOKYO] Wハンドルスウェードビッグトートバッグ   : unknown → out_of_stock
+- [ETRÉ TOKYO] ノットディティールレザーミニバッグ   : unknown → out_of_stock
+- [ETRÉ TOKYO] スウェードミドルトートバッグ   : unknown → out_of_stock
+- [ETRÉ TOKYO] ラムウールメルトンキャップ   : unknown → out_of_stock
 - [ETRÉ TOKYO] ASAUCEMELERヤク×アルパカシャンブレーシャギーストール   : in_stock → out_of_stock
 - [ETRÉ TOKYO] three dots オーガニックコットンクルーネックTee   : in_stock → out_of_stock
 - [ETRÉ TOKYO] three dots サンデットジャージークルーネックTee   : in_stock → out_of_stock
@@ -53,9 +59,3 @@
 - [ETRÉ TOKYO] AMPHI×ETRE TOKYOフィットハイウエストレギンス   : in_stock → out_of_stock
 - [ETRÉ TOKYO] AMPHI×ETRE TOKYOフィットカップインキャミソール   : in_stock → out_of_stock
 - [ETRÉ TOKYO] AMPHI×ETRE TOKYOフィットハーフレギンス   : in_stock → out_of_stock
-- [ETRÉ TOKYO] ドライタッチハーフスリーブプルオーバー   : in_stock → out_of_stock
-- [ETRÉ TOKYO] フレンチスリーブローゲージニットプルオーバー   : in_stock → out_of_stock
-- [ETRÉ TOKYO] エアリーコットンオーバーサイズTee   : in_stock → out_of_stock
-- [ETRÉ TOKYO] three dotsオーガニックコットンリンガーTee   : in_stock → out_of_stock
-- [ETRÉ TOKYO] コットンドビーギャザーパンツ   : in_stock → out_of_stock
-- [ETRÉ TOKYO] ガーメントダイソフトシアーパンツ   : in_stock → out_of_stock
