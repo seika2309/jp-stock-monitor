@@ -1,14 +1,32 @@
 # 日本购物网站库存报告
 
-更新时间：2026-11-01 01:45:10
+更新时间：2026-11-01 08:29:23
 
 ## 库存统计
 
-- ETRÉ TOKYO：商品 371 个，缺货规格 293 个
+- ETRÉ TOKYO：商品 371 个，缺货规格 311 个
 - LIFE's #203：商品 462 个，缺货规格 0 个
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] アイレットニットストール   : unknown → out_of_stock
+- [ETRÉ TOKYO] カシミヤストール   : unknown → out_of_stock
+- [ETRÉ TOKYO] スウェードライクヘアバンド   : unknown → out_of_stock
+- [ETRÉ TOKYO] ヘッドアクセセット   : unknown → out_of_stock
+- [ETRÉ TOKYO] ジルコン白釉湯呑み   : unknown → out_of_stock
+- [ETRÉ TOKYO] ジルコン白釉スクエアプレート大   : unknown → out_of_stock
+- [ETRÉ TOKYO] ジルコン白釉スクエアプレート中   : unknown → out_of_stock
+- [ETRÉ TOKYO] ジルコン白釉スクエアプレート小   : unknown → out_of_stock
+- [ETRÉ TOKYO] コンバーティブルカラーミディリバーコート   : unknown → out_of_stock
+- [ETRÉ TOKYO] ドレープハイネックロングリバーコート   : unknown → out_of_stock
+- [ETRÉ TOKYO] Marmot×ETRE TOKYO Stand Collar Vertical Down Coat   : unknown → out_of_stock
+- [ETRÉ TOKYO] Marmot×ETRE TOKYO Vertical Short Down Jacket   : unknown → out_of_stock
+- [ETRÉ TOKYO] フェイクムートンリバーシブルコート   : unknown → out_of_stock
+- [ETRÉ TOKYO] Marmot×ETRE TOKYO Fleece Jacket   : unknown → out_of_stock
+- [ETRÉ TOKYO] ミドルゲージハイネックニットプルオーバー   : unknown → out_of_stock
+- [ETRÉ TOKYO] ラウンドヨーククロシェニットプルオーバー   : unknown → out_of_stock
+- [ETRÉ TOKYO] Marmot×ETRE TOKYO Fleece Pants   : unknown → out_of_stock
+- [ETRÉ TOKYO] ハイライズワイドデニムパンツ   : unknown → out_of_stock
 - [ETRÉ TOKYO] スムースナロークロッグシューズ   : unknown → out_of_stock
 - [ETRÉ TOKYO] フェイクファーナロークロッグシューズ   : unknown → out_of_stock
 - [ETRÉ TOKYO] Wハンドルスウェードビッグトートバッグ   : unknown → out_of_stock
@@ -41,21 +59,3 @@
 - [ETRÉ TOKYO] ダブルフェイスIラインスカート   : in_stock → out_of_stock
 - [ETRÉ TOKYO] ナローケーブルニットワンピース   : in_stock → out_of_stock
 - [ETRÉ TOKYO] SANTEレザーコサージュ   : in_stock → out_of_stock
-- [ETRÉ TOKYO] サイドベンツテーラードジャケット   : in_stock → out_of_stock
-- [ETRÉ TOKYO] カットオフフリルネックシャツ   : in_stock → out_of_stock
-- [ETRÉ TOKYO] オフショルダーボリュームスリーブブラウス   : in_stock → out_of_stock
-- [ETRÉ TOKYO] ハーフスリーブハイネックシアープルオーバー   : in_stock → out_of_stock
-- [ETRÉ TOKYO] カットオフソフトスウェットシャツ   : in_stock → out_of_stock
-- [ETRÉ TOKYO] リラクシーキュプラパンツ   : in_stock → out_of_stock
-- [ETRÉ TOKYO] ハイライズストレートデニム   : in_stock → out_of_stock
-- [ETRÉ TOKYO] エンブロイダリーオールインワン   : in_stock → out_of_stock
-- [ETRÉ TOKYO] シアーレイヤードキャミワンピース   : in_stock → out_of_stock
-- [ETRÉ TOKYO] タンドレザージップリップケース   : in_stock → out_of_stock
-- [ETRÉ TOKYO] タンドレザージップサングラスケース   : in_stock → out_of_stock
-- [ETRÉ TOKYO] パイルギャザーミニスカート   : in_stock → out_of_stock
-- [ETRÉ TOKYO] サイドスリットパイルレギンス   : in_stock → out_of_stock
-- [ETRÉ TOKYO] ヘムギャザーオールインワン   : in_stock → out_of_stock
-- [ETRÉ TOKYO] フェードパイルショートパンツ   : in_stock → out_of_stock
-- [ETRÉ TOKYO] AMPHI×ETRE TOKYOフィットハイウエストレギンス   : in_stock → out_of_stock
-- [ETRÉ TOKYO] AMPHI×ETRE TOKYOフィットカップインキャミソール   : in_stock → out_of_stock
-- [ETRÉ TOKYO] AMPHI×ETRE TOKYOフィットハーフレギンス   : in_stock → out_of_stock
