@@ -1,14 +1,17 @@
 # 日本购物网站库存报告
 
-更新时间：2026-11-02 03:19:04
+更新时间：2026-11-02 11:54:40
 
 ## 库存统计
 
-- ETRÉ TOKYO：商品 375 个，缺货规格 315 个
+- ETRÉ TOKYO：商品 375 个，缺货规格 312 个
 - LIFE's #203：商品 462 个，缺货规格 0 个
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] 403 ERROR   : out_of_stock → unknown
+- [ETRÉ TOKYO] 403 ERROR   : out_of_stock → unknown
+- [ETRÉ TOKYO] 403 ERROR   : out_of_stock → unknown
 - [ETRÉ TOKYO] フェイクスウェードエプロンオールインワン   : unknown → out_of_stock
 - [ETRÉ TOKYO] フェイクスウェードクリーンロングワンピース   : unknown → out_of_stock
 - [ETRÉ TOKYO] SANTEケープディテールオールインワン   : unknown → out_of_stock
@@ -38,7 +41,7 @@
 - [ETRÉ TOKYO] ミドルゲージハイネックニットプルオーバー   : unknown → out_of_stock
 - [ETRÉ TOKYO] ラウンドヨーククロシェニットプルオーバー   : unknown → out_of_stock
 - [ETRÉ TOKYO] Marmot×ETRE TOKYO Fleece Pants   : unknown → out_of_stock
-- [ETRÉ TOKYO] ハイライズワイドデニムパンツ   : unknown → out_of_stock
+- [ETRÉ TOKYO] 403 ERROR   : unknown → out_of_stock
 - [ETRÉ TOKYO] ペインターカーブパンツ   : unknown → out_of_stock
 - [ETRÉ TOKYO] SANTEセンタークリースセミワイドパンツ   : unknown → out_of_stock
 - [ETRÉ TOKYO] スリークラインベルベットパンツ   : unknown → out_of_stock
@@ -56,6 +59,3 @@
 - [ETRÉ TOKYO] デザインタックセンタープレスパンツ   : out_of_stock → unknown
 - [ETRÉ TOKYO] スリークラインコーデュロイパンツ   : out_of_stock → unknown
 - [ETRÉ TOKYO] フロントデザインIラインスカート   : out_of_stock → unknown
-- [ETRÉ TOKYO] SANTEタックAラインスカート   : out_of_stock → unknown
-- [ETRÉ TOKYO] レオパードジャガードロングスカート   : out_of_stock → unknown
-- [ETRÉ TOKYO] スカラレースアイラインマキシスカート   : out_of_stock → unknown
