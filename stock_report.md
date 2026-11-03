@@ -1,20 +1,22 @@
 # 日本购物网站库存报告
 
-更新时间：2026-11-03 18:17:26
+更新时间：2026-11-03 23:54:11
 
 ## 库存统计
 
-- ETRÉ TOKYO：商品 375 个，缺货规格 315 个
+- ETRÉ TOKYO：商品 375 个，缺货规格 313 个
 - LIFE's #203：商品 462 个，缺货规格 0 个
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] 403 ERROR   : out_of_stock → unknown
+- [ETRÉ TOKYO] 403 ERROR   : out_of_stock → unknown
 - [ETRÉ TOKYO] アウトタックカーブパンツ   : unknown → out_of_stock
-- [ETRÉ TOKYO] ハイライズワイドデニムパンツ   : unknown → out_of_stock
-- [ETRÉ TOKYO] ラムレザーグローブ   : unknown → out_of_stock
+- [ETRÉ TOKYO] 403 ERROR   : unknown → out_of_stock
+- [ETRÉ TOKYO] 403 ERROR   : unknown → out_of_stock
 - [ETRÉ TOKYO] アウトタックカーブパンツ   : out_of_stock → unknown
-- [ETRÉ TOKYO] ハイライズワイドデニムパンツ   : out_of_stock → unknown
-- [ETRÉ TOKYO] ラムレザーグローブ   : out_of_stock → unknown
+- [ETRÉ TOKYO] 403 ERROR   : out_of_stock → unknown
+- [ETRÉ TOKYO] 403 ERROR   : out_of_stock → unknown
 - [ETRÉ TOKYO] フェイクスウェードエプロンオールインワン   : unknown → out_of_stock
 - [ETRÉ TOKYO] フェイクスウェードクリーンロングワンピース   : unknown → out_of_stock
 - [ETRÉ TOKYO] SANTEケープディテールオールインワン   : unknown → out_of_stock
@@ -44,7 +46,7 @@
 - [ETRÉ TOKYO] ミドルゲージハイネックニットプルオーバー   : unknown → out_of_stock
 - [ETRÉ TOKYO] ラウンドヨーククロシェニットプルオーバー   : unknown → out_of_stock
 - [ETRÉ TOKYO] Marmot×ETRE TOKYO Fleece Pants   : unknown → out_of_stock
-- [ETRÉ TOKYO] ハイライズワイドデニムパンツ   : unknown → out_of_stock
+- [ETRÉ TOKYO] 403 ERROR   : unknown → out_of_stock
 - [ETRÉ TOKYO] ペインターカーブパンツ   : unknown → out_of_stock
 - [ETRÉ TOKYO] SANTEセンタークリースセミワイドパンツ   : unknown → out_of_stock
 - [ETRÉ TOKYO] スリークラインベルベットパンツ   : unknown → out_of_stock
@@ -57,5 +59,3 @@
 - [ETRÉ TOKYO] ストレートデニムパンツ   : unknown → out_of_stock
 - [ETRÉ TOKYO] Levi's CINCH WIDE LEG   : unknown → out_of_stock
 - [ETRÉ TOKYO] ペインターカーブパンツ   : out_of_stock → unknown
-- [ETRÉ TOKYO] SANTEセンタークリースセミワイドパンツ   : out_of_stock → unknown
-- [ETRÉ TOKYO] スリークラインベルベットパンツ   : out_of_stock → unknown
