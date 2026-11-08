@@ -1,14 +1,32 @@
 # 日本购物网站库存报告
 
-更新时间：2026-11-08 03:14:53
+更新时间：2026-11-08 10:59:55
 
 ## 库存统计
 
-- ETRÉ TOKYO：商品 375 个，缺货规格 286 个
+- ETRÉ TOKYO：商品 375 个，缺货规格 304 个
 - LIFE's #203：商品 462 个，缺货规格 0 个
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] スウェードナロークロッグシューズ   : unknown → out_of_stock
+- [ETRÉ TOKYO] スムースナロークロッグシューズ   : unknown → out_of_stock
+- [ETRÉ TOKYO] フェイクファーナロークロッグシューズ   : unknown → out_of_stock
+- [ETRÉ TOKYO] Wハンドルスウェードビッグトートバッグ   : unknown → out_of_stock
+- [ETRÉ TOKYO] ノットディティールレザーミニバッグ   : unknown → out_of_stock
+- [ETRÉ TOKYO] スウェードミドルトートバッグ   : unknown → out_of_stock
+- [ETRÉ TOKYO] ラムウールメルトンキャップ   : unknown → out_of_stock
+- [ETRÉ TOKYO] アイレットニットストール   : unknown → out_of_stock
+- [ETRÉ TOKYO] カシミヤストール   : unknown → out_of_stock
+- [ETRÉ TOKYO] スウェードライクヘアバンド   : unknown → out_of_stock
+- [ETRÉ TOKYO] ヘッドアクセセット   : unknown → out_of_stock
+- [ETRÉ TOKYO] ジルコン白釉湯呑み   : unknown → out_of_stock
+- [ETRÉ TOKYO] ジルコン白釉スクエアプレート大   : unknown → out_of_stock
+- [ETRÉ TOKYO] ジルコン白釉スクエアプレート中   : unknown → out_of_stock
+- [ETRÉ TOKYO] ジルコン白釉スクエアプレート小   : unknown → out_of_stock
+- [ETRÉ TOKYO] コンバーティブルカラーミディリバーコート   : unknown → out_of_stock
+- [ETRÉ TOKYO] ドレープハイネックロングリバーコート   : unknown → out_of_stock
+- [ETRÉ TOKYO] Marmot×ETRE TOKYO Stand Collar Vertical Down Coat   : unknown → out_of_stock
 - [ETRÉ TOKYO] オーバーサイズパイルTee   : unknown → out_of_stock
 - [ETRÉ TOKYO] ショルダーパットロングスリーブTee   : unknown → out_of_stock
 - [ETRÉ TOKYO] リラクシースウェットシャツ   : unknown → out_of_stock
@@ -41,21 +59,3 @@
 - [ETRÉ TOKYO] メッセージエンブロイダリーロンTee   : out_of_stock → unknown
 - [ETRÉ TOKYO] アウトタックセミワイドパンツ   : out_of_stock → unknown
 - [ETRÉ TOKYO] パイルピンタックワイドパンツ   : out_of_stock → unknown
-- [ETRÉ TOKYO] サプルダブルクロスカプリパンツ   : out_of_stock → unknown
-- [ETRÉ TOKYO] スウェットテーパードパンツ   : out_of_stock → unknown
-- [ETRÉ TOKYO] ペインターカーブパンツ   : out_of_stock → unknown
-- [ETRÉ TOKYO] SANTEセンタークリースセミワイドパンツ   : out_of_stock → unknown
-- [ETRÉ TOKYO] スリークラインベルベットパンツ   : out_of_stock → unknown
-- [ETRÉ TOKYO] デザインタックセンタープレスパンツ   : out_of_stock → unknown
-- [ETRÉ TOKYO] スリークラインコーデュロイパンツ   : out_of_stock → unknown
-- [ETRÉ TOKYO] フロントデザインIラインスカート   : out_of_stock → unknown
-- [ETRÉ TOKYO] SANTEタックAラインスカート   : out_of_stock → unknown
-- [ETRÉ TOKYO] レオパードジャガードロングスカート   : out_of_stock → unknown
-- [ETRÉ TOKYO] スカラレースアイラインマキシスカート   : out_of_stock → unknown
-- [ETRÉ TOKYO] ストレートデニムパンツ   : out_of_stock → unknown
-- [ETRÉ TOKYO] Levi's CINCH WIDE LEG   : out_of_stock → unknown
-- [ETRÉ TOKYO] フェイクスウェードエプロンオールインワン   : out_of_stock → unknown
-- [ETRÉ TOKYO] フェイクスウェードクリーンロングワンピース   : out_of_stock → unknown
-- [ETRÉ TOKYO] SANTEケープディテールオールインワン   : out_of_stock → unknown
-- [ETRÉ TOKYO] ジャガードタンクミニワンピース   : out_of_stock → unknown
-- [ETRÉ TOKYO] SHISEI SKINY BOOTS   : out_of_stock → unknown
