@@ -1,6 +1,6 @@
 # 日本购物网站库存报告
 
-更新时间：2026-11-22 17:01:35
+更新时间：2026-11-22 22:20:37
 
 ## 库存统计
 
@@ -9,6 +9,11 @@
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] 砂化粧釉マグカップ   : in_stock → unknown
+- [ETRÉ TOKYO] タイニーフラワーエンブロイダリーニットカーディガン   : in_stock → unknown
+- [ETRÉ TOKYO] ヘアリーニットプルオーバー   : in_stock → unknown
+- [ETRÉ TOKYO] ラウンドヨーククロシェニットプルオーバー   : in_stock → unknown
+- [ETRÉ TOKYO] ボンディングコージータックパンツ   : in_stock → unknown
 - [ETRÉ TOKYO] 砂化粧釉マグカップ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] ハイゲージバイカーニットパンツ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] Levi's LOW LOOSE   : out_of_stock → in_stock
@@ -54,8 +59,3 @@
 - [ETRÉ TOKYO] Silver925クラッチピアス   : out_of_stock → in_stock
 - [ETRÉ TOKYO] ハンドステッチタンドレザーフラットサンダル   : out_of_stock → in_stock
 - [ETRÉ TOKYO] タンドレザーバックルレスベルト   : out_of_stock → in_stock
-- [ETRÉ TOKYO] チェーンステッチテーブルマットセット   : out_of_stock → in_stock
-- [ETRÉ TOKYO] チェーンステッチコースターセット   : out_of_stock → in_stock
-- [ETRÉ TOKYO] チェーンステッチ割烹着   : out_of_stock → in_stock
-- [ETRÉ TOKYO] フェイクレザールームシューズ   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ETRE TOKYO Waterproof spray   : out_of_stock → in_stock
