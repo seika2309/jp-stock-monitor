@@ -1,14 +1,15 @@
 # 日本购物网站库存报告
 
-更新时间：2026-11-22 22:20:37
+更新时间：2026-11-23 03:27:18
 
 ## 库存统计
 
-- ETRÉ TOKYO：商品 384 个，缺货规格 152 个
+- ETRÉ TOKYO：商品 390 个，缺货规格 153 个
 - LIFE's #203：商品 462 个，缺货规格 0 个
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] Levi's LOW LOOSE   : in_stock → out_of_stock
 - [ETRÉ TOKYO] 砂化粧釉マグカップ   : in_stock → unknown
 - [ETRÉ TOKYO] タイニーフラワーエンブロイダリーニットカーディガン   : in_stock → unknown
 - [ETRÉ TOKYO] ヘアリーニットプルオーバー   : in_stock → unknown
@@ -58,4 +59,3 @@
 - [ETRÉ TOKYO] タンクトップコンビロングワンピース   : out_of_stock → in_stock
 - [ETRÉ TOKYO] Silver925クラッチピアス   : out_of_stock → in_stock
 - [ETRÉ TOKYO] ハンドステッチタンドレザーフラットサンダル   : out_of_stock → in_stock
-- [ETRÉ TOKYO] タンドレザーバックルレスベルト   : out_of_stock → in_stock
