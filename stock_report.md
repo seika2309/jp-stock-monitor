@@ -1,6 +1,6 @@
 # 日本购物网站库存报告
 
-更新时间：2026-11-24 01:26:56
+更新时间：2026-11-24 11:52:15
 
 ## 库存统计
 
@@ -9,6 +9,8 @@
 
 ## 最近库存变化
 
+- [ETRÉ TOKYO] ハイゲージバイカーニットパンツ   : in_stock → out_of_stock
+- [ETRÉ TOKYO] Levi's LOW LOOSE   : out_of_stock → in_stock
 - [ETRÉ TOKYO] Levi's LOW LOOSE   : in_stock → out_of_stock
 - [ETRÉ TOKYO] 砂化粧釉マグカップ   : in_stock → unknown
 - [ETRÉ TOKYO] タイニーフラワーエンブロイダリーニットカーディガン   : in_stock → unknown
@@ -57,5 +59,3 @@
 - [ETRÉ TOKYO] タックイージーパンツ   : out_of_stock → in_stock
 - [ETRÉ TOKYO] エアリーコットンガーメントダイボリュームスカート   : out_of_stock → in_stock
 - [ETRÉ TOKYO] タンクトップコンビロングワンピース   : out_of_stock → in_stock
-- [ETRÉ TOKYO] Silver925クラッチピアス   : out_of_stock → in_stock
-- [ETRÉ TOKYO] ハンドステッチタンドレザーフラットサンダル   : out_of_stock → in_stock
